@@ -1,0 +1,808 @@
+SrNo,Date,a,Nature of Accident,Classification of Accident,Causes,Road Feature,Road Condition,Intersection Type and Control,Weather Condition,Vehicle Responsible,Fatal,Grevious,Minor,Injured,Help Provided by Ambulance/Patrol,Remarks
+1,09/09/2016,20:35,overspeed,2,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to road crossing Pedestrian,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+2,09/09/2016,20:35,overspeed,2,2 & 5,fourlane,straight,junction,fine,Fault of other vehicle while crossing the road two wheeler car hit,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+3,09/09/2016,19:30,headoncollision,1 & 2,1,fourlane,straight,junction,fine,Two wheeler over speed and hit to two wheeler,1,1,0,0,Ambulance/Petrol Vehicle,The fatal body and injured person shifted to Govt Hoskote
+4,09/09/2015,05:30,skidding,2,7,fourlane,straight,junction,fine,Fault of road crossing pedestrian,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+5,09/09/2015,22:45,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Truck over speed and hit to Truck,0,3,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+6,09/09/2015,00:45,overspeed,2,2 & 3,fourlane,slightcurve,junction,fine,Truck over speed and Hit to the Two wheeler,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+7,09/09/2015,19:45,skidding,2,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to Tractor,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+8,09/09/2015,12:45,headoncollision,2,1 & 2,fourlane,straight,tjunction,fine,Two wheeler over speed and hit to Two wheeler,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+9,09/08/2017,20:30,headoncollision,1,2 & 5,fourlane,straight,junction,fine,car over speed and hit to two wheeler,0,2,0,0,Ambulance,The injured person shifted to MVJ Hospital
+10,09/08/2017,23:45,overspeed,2,2 & 3,fourlane,straight,junction,fine,Car over speed self accident,0,3,0,0,Ambulance,The injured person shifted to Silcon city Hospital
+11,09/08/2016,22:40,skidding,3,1,fourlane,straight,junction,fine,Two wheeler self accident Drunk & Drive,0,0,1,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+12,09/08/2015,22:45,overspeed,1 & 2,2 & 3 & 5,fourlane,slightcurve,junction,fine,Car Hit to the Multi axle,1,3,0,0,Ambulance/Petrol Vehicle,The Fatal & Injured person shifted to MVJ Hospital
+13,09/08/2014,19:30,overspeed,1 & 3,2,fourlane,straight,junction,fine,Bike,1,0,1,0,Ambulance/Petrol Vehicle,"Bike Over speed. 1-Minor, 2- non injured. Shifted to Ambulance Jalappa Hospital Kolar."
+14,09/07/2017,19:45,skidding,2,2 & 3,fourlane,straight,junction,fine,Car over speed self accident,0,1,0,0,Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+15,09/06/2015,15:50,others,3,2,fourlane,straight,junction,fine,T.T,0,0,0,0,Petrol Vehicle,T.T lost control by over speed (self accident)
+16,09/06/2014,12:40,others,2 & 3 & 4,2,fourlane,straight,junction,fine,Car over speed,0,2,1,3,Ambulance/Petrol Vehicle,Shifted to Hospital
+17,09/05/2017,05:00,skidding,2,9,fourlane,straight,junction,fine,Car self accident defect in mechanical condition,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Govt Hospital Hoskote
+18,09/05/2015,11:15,others,1,2 & 3 & 4,fourlane,slightcurve,junction,fine,Bike over speed and Vehicle out of control hit to the lorry,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to MVJ Hospital
+19,09/05/2014,10:00,others,1,2,fourlane,straight,junction,fine,Car,1,0,0,0,Ambulance/Petrol Vehicle,Due to over speed of car lost control and collided with MS Guardrail car self accident
+20,09/05/2014,10:00,others,1,2,fourlane,straight,junction,fine,Over Speed of Car,1,0,0,0,Ambulance/Petrol Vehicle,Due Over Speed lost control
+21,09/04/2016,12:55,overspeed,1,7,fourlane,slightcurve,junction,fine,Fault of road crossing pedestrian,1,0,0,0,Ambulance,The fatal body shifted to MVJ Hospital
+22,09/04/2014,12:30,others,3,2,fourlane,straight,junction,fine,Car,0,0,1,2,Ambulance/Petrol Vehicle,Over speed of car rammed to auto rikshaw
+23,09/03/2017,05:20,rearendcollision,2 & 3,2,fourlane,straight,junction,fine,Multi axle over speed and hit to car,0,2,2,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+24,09/03/2017,03:15,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Truck over speed and hit LCV,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Govt Hospital Avalahalli
+25,09/03/2015,23:15,skidding,1 & 2 & 4,2 & 3 & 5,fourlane,straight,tjunction,fine,Tata Ace hit to the car,1,1,0,3,Ambulance/Petrol Vehicle,The fatal and injured person shifted to Jalappa Hospital
+26,09/02/2017,15:00,overspeed,3,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to Animal (Cow),0,0,1,0,Petrol Vehicle,The minor injured Animal and Traffic clear immediately
+27,09/12/2017,23:35,skidding,1,2 & 3,fourlane,straight,junction,fine,Car over speed self accident,2,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+28,09/12/2016,15:30,rightturncollision,2,2 & 4,fourlane,straight,junction,fine,Truck over speed and hit to Car,0,1,0,0,Petrol Vehicle,The injured person shifted to MVJ Hospital
+29,09/12/2015,20:10,skidding,3,7,fourlane,straight,junction,fine,Fault of road crossing pedestrian,0,0,1,0,Petrol Vehicle,The injured person shifted to MVJ Hospital
+30,09/11/2017,06:00,headoncollision,3,2 & 5,fourlane,straight,junction,fine,Truck over speed and hit to LCV,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+31,09/10/2015,16:30,others,1 & 2 & 4,2 & 3,fourlane,straight,junction,fine,Self accident Driver sleeping,1,1,0,2,Ambulance/Petrol Vehicle,The Fatal & Inured person shifted to Jalappa Hospital
+32,09/01/2018,18:00,overspeed,2,7,fourlane,straight,junction,fine,Fault of Two wheeler over speed to crossing road,0,1,0,0,Ambulance,The injured person shifted to Private Hospital Hoskote
+33,08/09/2015,14:35,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to car,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to KR Puram Govt Hospital
+34,08/08/2017,17:00,headoncollision,3,2 & 5,twolane,straight,junction,fine,Truck over speed and hit to Bike & Bus,0,0,3,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+35,08/08/2015,20:35,headoncollision,3,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to Two wheeler,0,0,3,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+36,08/07/2017,20:00,skidding,1,2 & 3,fourlane,straight,junction,fine,Car over speed self accident,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+37,08/07/2016,14:45,skidding,3,2,fourlane,straight,junction,fine,Two wheeler over speed self accident,0,0,1,0,Ambulance,The injured person shifted to MVJ Hospital
+38,08/07/2015,13:30,skidding,4,3,fourlane,straight,junction,fine,Driver sleeping vehicle out of control and skidding,0,0,0,3,Ambulance/Petrol Vehicle,-
+39,08/06/2016,10:35,overspeed,1 & 3,2 & 4,fourlane,straight,tjunction,fine,Bus over speed and hit to Two wheeler,1,0,1,0,Ambulance/Petrol Vehicle,The fatal body and injured person shifted to Jalappa Hospital
+40,08/05/2018,05:09,headoncollision,1,2 & 4,fourlane,straight,junction,cloudy,Bus over speed and hit to two wheeler,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Govt. Hospital Hoskote
+41,08/05/2016,19:50,headoncollision,1,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to car,1,0,0,0,Ambulance,The fatal body shifted to KR Puram Govt. Hospital
+42,08/05/2016,22:45,overspeed,2,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to car,0,3,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+43,08/05/2015,17:20,others,3 & 4,3 & 5,fourlane,straight,junction,fine,LCV vehicle over speed out of controll,0,0,2,2,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+44,08/05/2014,11:00,others,1,1,fourlane,straight,junction,fine,Bike,1,0,0,0,Ambulance/Petrol Vehicle,"Due Drunk and Drive Lost Control, Seriously Injured shifted to hospital but died in the hospital"
+45,08/05/2014,11:00,others,1,1,fourlane,straight,junction,fine,Bike,1,0,0,0,Ambulance/Petrol Vehicle,Due to drunk and drive of bike rider self accident
+46,08/04/2016,12:40,headoncollision,1 & 2,2 & 4,fourlane,straight,junction,fine,Car over speed hit to Two wheeler. Fault of Two wheeler crossing the illegal median.,1,1,0,0,Ambulance/Petrol Vehicle,The fatal body and injured person shifted to Jalappa Hospital
+47,08/03/2017,03:30,overspeed,3,2,fourlane,straight,junction,fine,Truck over speed and hit to car,0,0,2,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+48,08/03/2016,17:45,headoncollision,3,2 & 4,fourlane,straight,tjunction,fine,Two wheeler over speed and take U turn and hit to the car,0,0,1,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+49,08/03/2015,11:30,skidding,2,2 & 3,fourlane,straight,junction,fine,Vehicle over speed and Out of Control,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+50,08/02/2015,01:00,others,1,4,fourlane,straight,junction,fine,Bike raiding vehicle out of control,1,0,0,0,Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+51,08/12/2015,01:30,overspeed,2,4,fourlane,straight,junction,fine,Two wheeler over speed and hit to Car,1,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+52,08/12/2015,12:45,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Car over speed and Hit to LCV,0,2,0,0,Ambulance,The injured person shifted to MVJ Hospital
+53,08/12/2015,14:30,skidding,2,1,fourlane,straight,junction,fine,Self accident Drunk & Drive,0,1,0,0,Ambulance,The injured person shifted to MVJ Hospital
+54,08/12/2015,18:22,headoncollision,1 & 4,2 & 4,fourlane,straight,junction,fine,Two wheeller over speed and Hit to JCB,2,0,0,1,Ambulance/Petrol Vehicle,Tha fatal body shifted to Jalappa Hospital
+55,08/12/2014,15:25,others,2,1 & 4,fourlane,slightcurve,junction,fine,Self Accident Drunk & Drive,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+56,08/12/2014,11:45,others,2 & 3,7,fourlane,slightcurve,junction,fine,The vehicle of lorry hit to Road crossing passenger,0,1,1,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+57,08/11/2014,10:00,others,2 & 4,1,fourlane,straight,junction,fine,Drunk & Drive,0,1,0,1,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+58,07/09/2016,23:15,headoncollision,3,3,fourlane,straight,junction,fine,Two wheeler over speed self accident,0,0,1,0,Petrol Vehicle,The injured person shifted to MVJ Hospital
+59,07/09/2016,10:30,overspeed,1,2 & 5,fourlane,straight,junction,fine,LCV over speed and hit to road crossing pedestrain,1,0,0,0,Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+60,07/09/2016,23:15,skidding,2,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed Self accident,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to KR Puram Govt Hospital
+61,07/09/2015,17:30,skidding,2,2,fourlane,straight,junction,fine,car over speed out of control,0,3,0,0,Ambulance,"The injured person shifted to Govt Hospital, Hoskote"
+62,07/09/2014,08:45,overspeed,3,3,fourlane,slightcurve,junction,fine,Wrong route of Auto come and Hit to the Car over speed,0,0,3,0,Ambulance/Petrol Vehicle,The injured persons shifted to MVJ Hospital
+63,07/07/2015,13:00,skidding,2,1 & 2,fourlane,slightcurve,junction,fine,Fault of driver of Motor vehicle,0,1,0,0,Petrol Vehicle,The injured person shifted to MVJ Hospital
+64,07/07/2014,12:40,overspeed,2 & 3,3,fourlane,straight,tjunction,fine,TATA ACE,0,1,2,0,Ambulance/Petrol Vehicle,Shifted to SNR Hospital Kolar
+65,07/06/2016,23:00,overspeed,2,2,fourlane,straight,junction,fine,Car over speed and hit to Car,0,1,0,0,Ambulance,The injured person shifted to MVJ Hospital
+66,07/06/2015,13:30,overspeed,3,2,fourlane,straight,junction,fine,Car,0,0,0,5,Petrol Vehicle,Inova Car hits Maruthi car while over taking
+67,07/06/2014,04:00,others,3,2,fourlane,straight,yjunction,fine,Tempo over Speed,0,0,7,0,Ambulance/Petrol Vehicle,shifted to Hospital MVJ Hoskote
+68,07/05/2017,16:45,headoncollision,1,2 & 5 & 9,fourlane,straight,junction,fine,Car over speed self accident. Negligible Driving,3,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to MVJ Hospital
+69,07/05/2017,19:30,overspeed,3,2 & 5,fourlane,straight,junction,fine,Truck over speed and hit to Car,0,0,1,0,Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+70,07/05/2014,10:45,others,2,2,fourlane,straight,junction,fine,Truck,0,1,0,0,Ambulance/Petrol Vehicle,Over speeding of truck collided with mini truck
+71,07/05/2014,10:45,others,2,2,fourlane,straight,junction,fine,Over Speed of Lorry,0,1,0,0,Ambulance/Petrol Vehicle,Over speed while overtaking the Milk Van
+72,07/04/2016,12:35,skidding,1 & 3,2 & 9,fourlane,straight,junction,fine,LCV over speed Tyre blast self accident,1,0,3,0,Ambulance/Petrol Vehicle,The Fatal & Injured person shifted to Jalappa Hospital
+73,07/03/2016,19:30,skidding,3,2 & 4,fourlane,straight,forearmjunction,fine,Two wheeler over speed and hit to Two wheeler,0,0,2,0,Ambulance,The injured person shifted to Jalappa Hospital
+74,07/02/2018,13:15,overspeed,1,7,fourlane,straight,junction,fine,Car over speed and hit to road crossing pedestrian. Fault of Pedestrian.,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Govt. Hospital Hoskote
+75,07/02/2018,20:40,overspeed,1,7,fourlane,straight,junction,fine,Fault of road crossing pedestrian. Vehicle over speed and hit to pedestrian,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+76,07/02/2016,15:45,headoncollision,3,2 & 4,fourlane,straight,tjunction,fine,Two wheeler over speed turning the opening opposite vehicle of truck hit to two wheeler,0,0,1,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+77,07/12/2017,23:40,headoncollision,1,2,fourlane,straight,junction,fine,Car over speed and hit to Agriculture vehicle.,3,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+78,07/12/2016,20:50,others,3,9,fourlane,straight,junction,fine,Car self accident defect in mechanical condition,0,0,2,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+79,07/12/2015,05:00,others,1,3 & 5,fourlane,straight,junction,fine,Vehicle Hit to Road crossing Pedestrian,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to SNR Hospital
+80,07/12/2015,21:00,skidding,2 & 3,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to Car,0,1,2,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+81,07/12/2015,21:30,overspeed,1,5,fourlane,straight,junction,fine,Two wheeler Hit and run Road crossing pedestrian,1,0,0,0,Ambulance,The fatal body shifted to MVJ Hospital
+82,07/10/2016,00:30,skidding,2,1,fourlane,straight,junction,fine,Car over speed self accident,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+83,07/01/2017,00:35,headoncollision,1,2 & 4,fourlane,slightcurve,junction,fine,Fault of Two wheeler over speed,1,0,0,0,Ambulance,The fatal body shifted to MVJ Hospital
+84,07/01/2017,19:45,skidding,2,2,fourlane,straight,tjunction,fine,Two wheeler over speed and hit to car,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+85,06/09/2017,21:45,overspeed,2,2,fourlane,straight,junction,fine,Unknown vehicle hit to Road crossing pedestrian,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Govt. Hospital Hoskote
+86,06/09/2015,04:35,overspeed,2,2 & 3,fourlane,straight,junction,fine,Self Accident Drunk & Drive,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+87,06/09/2015,00:45,skidding,3,2 & 5,fourlane,straight,junction,fine,Car over speed fault of driver,0,0,2,1,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+88,06/09/2014,18:20,rightturncollision,2 & 3,3,fourlane,straight,tjunction,fine,KSRTC bus over speed Hit to Car,0,1,2,0,Ambulance/Petrol Vehicle,The injured persons shifted to Jalapa Hospital
+89,06/08/2017,15:10,headoncollision,1,2,fourlane,straight,junction,fine,car over speed and hit to two wheeler,0,2,0,0,Ambulance,The injured person shifted to MVJ Hospital
+90,06/08/2015,17:35,headoncollision,1 & 3,2 & 5,fourlane,straight,junction,fine,Truck over speed and Hit to the Two wheeler,1,0,2,0,Ambulance/Petrol Vehicle,The fatal boady shifted to Jalappa Hospital
+91,06/08/2014,06:30,overspeed,3 & 4,2,fourlane,straight,junction,fine,Car,0,0,1,2,Ambulance/Petrol Vehicle,"Tata Ace Over speed. 1-Minor, 2- non injured. Shifted to Ambulance SNR Hospital Kolar."
+92,06/07/2017,19:00,headoncollision,2,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed hit to two wheeler,0,3,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+93,06/07/2016,15:15,skidding,3 & 4,2 & 3,fourlane,straight,junction,fine,Two wheeler over speed and vehicle out of control skidding self accident,0,0,1,1,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+94,06/06/2017,14:55,headoncollision,3,2 & 5,fourlane,straight,junction,fine,car over speed and hit to two wheeler,0,0,2,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+95,06/06/2017,11:55,skidding,2,2 & 3,fourlane,straight,junction,fine,Two wheeler over speed Self accident,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+96,06/06/2016,02:15,skidding,3,2,fourlane,straight,junction,fine,Car over speed Driver sleeping vehicle skidding,0,0,1,0,Ambulance,The injured person shifted to Jalappa Hospital
+97,06/06/2016,02:45,headoncollision,2,2 & 3,fourlane,straight,tjunction,fine,Car over speed and hit to LCV,0,1,0,0,Ambulance,The injured person shifted to Jalappa Hospital
+98,06/06/2016,02:45,overspeed,2,2 & 3,fourlane,straight,tjunction,fine,Car over speed and Hit to LCV,0,1,0,0,Ambulance,The injured person shifted to MVJ Hospital
+99,06/06/2016,16:30,overspeed,3,5,fourlane,straight,junction,fine,Tractor over speed U turn and hit to Car,0,0,2,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+100,06/06/2014,22:30,others,2,2,fourlane,straight,junction,fine,Car,0,2,0,0,Ambulance/Petrol Vehicle,Shifted to Govt. Hospital Kolar
+101,06/06/2014,22:30,others,2,2,fourlane,straight,junction,fine,Car,0,2,0,0,Ambulance/Petrol Vehicle,Shifted to Govt. Hospital Kolar
+102,06/04/2015,19:00,collisionbrush,1,2 & 5,fourlane,straight,junction,fine,Fault of Car over speed and hit to the KSRTC bus,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+103,06/03/2016,17:30,overspeed,2,1 & 5,fourlane,straight,junction,fine,Drunk & Drive of car driver,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+104,06/03/2016,22:00,overspeed,2,2,fourlane,slightcurve,junction,fine,Car over speed and hit to road crossing Pedestrian,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+105,06/02/2018,09:15,overspeed,1,7,fourlane,straight,junction,fine,Bus hit to road crossing pedestrian. Fault of Pedestrian,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Govt Hoskote
+106,06/02/2017,19:10,headoncollision,1 & 2,2 & 5,fourlane,straight,junction,fine,Truck over speed and hit to Two wheeler,1,2,0,0,Ambulance/Petrol Vehicle,The fatal body & Injured person shifted to MVJ Hospital
+107,06/02/2016,17:25,overspeed,2 & 3,2 & 5,fourlane,straight,junction,fine,Bus over speed and hit to Auto,0,2,5,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+108,06/02/2016,19:36,skidding,2,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed skidding,0,3,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+109,06/12/2014,20:40,others,3,2 & 3,fourlane,straight,junction,fine,The car tyre puncher vehicle skidding on the carriageway,0,0,1,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+110,06/11/2017,01:30,skidding,1,2,fourlane,straight,junction,fine,Car over speed self accident,1,0,0,0,Ambulance,The fatal body shifted to Govt Hoskote
+111,06/11/2017,21:00,overspeed,2,2 & 9,fourlane,straight,junction,fine,Car over speed hit to Truck,0,1,0,0,Ambulance,The injured person shifted to Private Hospital Bhattarhalli
+112,06/11/2016,09:45,skidding,2 & 3,2 & 3 & 4,fourlane,straight,junction,fine,car over speed and hit to two wheeler,0,1,1,0,Petrol Vehicle,The injured person shifted to MVJ Hospital
+113,06/11/2014,23:45,overspeed,2 & 3,2 & 5,fourlane,straight,junction,fine,Over speed car and Hit to the Road Pedestrian,0,1,1,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+114,06/10/2017,10:30,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to car,0,2,0,0,Ambulance,The injured person shifted to MVJ Hospital
+115,06/10/2016,03:20,skidding,1 & 3,2 & 5,fourlane,slightcurve,junction,fine,Unknown vehicle hit to bike,1,0,2,0,Ambulance/Petrol Vehicle,The fatal body & injured person shifted to Jalappa Hospital
+116,06/10/2015,04:30,skidding,2,3,fourlane,straight,junction,fine,Car skidding on MCW because driver sleeping,0,2,0,0,Petrol Vehicle,The injure person shifted to MVJ Hospital
+117,06/01/2018,17:00,skidding,2,7,fourlane,straight,junction,fine,Fault of Road crossing pedestrian,0,1,0,0,Petrol Vehicle,The injured person shifted to Private Hospital Bhattarhalli
+118,05/09/2016,21:20,overspeed,2,2 & 3,fourlane,straight,junction,fine,Two wheeler over speed Self accident,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+119,05/09/2016,20:30,skidding,3,1,fourlane,straight,junction,fine,Two wheeler over speed self accident,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+120,05/09/2016,15:10,skidding,3,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to car,0,0,1,0,Ambulance,The injured person shifted to Srinivas Hospital
+121,05/09/2015,10:00,overspeed,2,2 & 5,fourlane,straight,junction,fine,Fault of road crossing pedestrian,0,1,0,0,Ambulance,The injured person shifted to KR Puram Govt. Hospital
+122,05/09/2015,19:00,overspeed,1,1,fourlane,straight,junction,fine,Drunk & Drive,1,0,0,0,Ambulance,The fatal body shifted to MVJ Hospital
+123,05/09/2014,23:30,headoncollision,1 & 2,2,fourlane,sharpcurve,tjunction,fine,TATA Ace Hit to Car over speeding,2,1,0,0,Ambulance/Petrol Vehicle,The Fatal person and Injured person shifted to Govt Hospital Kolar
+124,05/08/2015,14:30,overspeed,2,2,fourlane,straight,junction,fine,Car over speed and hit to Two wheeler,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+125,05/07/2015,16:35,skidding,4,2 & 4,fourlane,straight,junction,fine,Bike over speed fault of Motor vehicle,0,0,0,1,Petrol Vehicle,The injured person Shifted to Narsapur Govt Hsptl
+126,05/07/2015,19:35,overspeed,1,2 & 7,fourlane,slightcurve,junction,fine,Car over speed and hit to run the Pedestrian,1,0,0,0,Petrol Vehicle,The fatal body shifted to SNR Mortury
+127,05/07/2015,22:10,overspeed,2,2 & 4,fourlane,straight,junction,fine,Fault of driver of Motor vehicle,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+128,05/07/2014,22:45,overspeed,2,1 & 2,fourlane,straight,junction,fine,Bike Drunk & Drive,0,1,0,0,Ambulance/Petrol Vehicle,Shifted to RL Jalappa Hospital Kolar
+129,05/06/2016,20:10,overspeed,2,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to road crossing Pedestrian,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+130,05/05/2016,22:45,skidding,2,2,fourlane,straight,junction,fine,Car over speed vehicle out of control skidding,0,3,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital
+131,05/05/2016,00:45,skidding,2,2 & 3,fourlane,straight,junction,fine,Car over speed vehicle out of control Self accident,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+132,05/04/2018,01:00,headoncollision,2,1 & 2,fourlane,straight,junction,fine,LCV over speed and hit to Truck. Driver sleep and Drink & Drive,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+133,05/04/2014,11:45,others,2,2,fourlane,straight,junction,fine,Bike,0,1,1,0,Ambulance/Petrol Vehicle,Due over speed of bike rider
+134,05/03/2017,14:40,headoncollision,1,2 & 5,fourlane,straight,tjunction,fine,car over speed and hit to two wheeler,2,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+135,05/03/2015,20:05,overspeed,2 & 3 & 4,2 & 3 & 5,fourlane,straight,junction,fine,Total 3nos of vehicle accident in the spot,0,1,1,3,Ambulance,The injured person shifted to Jalappa Hospital
+136,05/03/2015,20:05,overspeed,2 & 3 & 4,2 & 3 & 5,fourlane,straight,junction,fine,Total 3nos of vehicle accident in the spot,0,1,1,3,Ambulance,The injured person shifted to Jalappa Hospital
+137,05/03/2015,16:48,others,1 & 2,2 & 3,fourlane,slightcurve,tjunction,fine,Self accident vehicle over speed,1,3,0,0,Ambulance/Petrol Vehicle,The fatal body & injured person shifted to MVJ Hospital
+138,05/03/2015,17:00,others,2,1 & 2,fourlane,slightcurve,tjunction,fine,Self Accident Drunk & Drive,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+139,05/02/2016,01:30,headoncollision,1,2 & 5,fourlane,straight,junction,fine,Mini truck crushed with Truck. Negligent driving of Mini truck driver,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Govt Hospital
+140,05/12/2015,21:45,overspeed,2,2 & 3,fourlane,straight,junction,fine,Two wheeler overspeed and vehicle out of control skidding,0,2,0,0,Ambulance,The injured person shifted to MVJ Hospital
+141,05/10/2016,23:45,overspeed,3,2,fourlane,straight,junction,fine,Car over speed and hit to Car,0,0,1,0,Ambulance,The injured person shifted to KR Puram Private Hospital
+142,05/10/2014,19:00,others,1 & 2 & 3,7,fourlane,slightcurve,junction,fine,Fault of Pedestrian,1,1,1,0,Ambulance/Petrol Vehicle,The Fatal person and Injured person shifted to Jalappa Hospital Kolar
+143,05/01/2016,11:15,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Negligent driving of the Auto driver,0,1,0,0,Ambulance,The injure person shifted to MVJ Hospital
+144,04/08/2017,01:05,headoncollision,1 & 3,2 & 3 & 5,fourlane,straight,junction,fine,Bus over speed and hit to Car & LCV,3,0,1,0,Ambulance/Petrol Vehicle,The fatal & Injured person shifted to Jalappa Hospital Koalr
+145,04/08/2016,14:15,headoncollision,3,2 & 3,fourlane,straight,junction,fine,Car over speed and hit to car,0,0,1,0,Ambulance/Petrol Vehicle,-
+146,04/08/2015,05:10,overspeed,1,2 & 7,fourlane,straight,junction,fine,Car hit to road crossing pedestrian,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to MVJ Hospital
+147,04/08/2015,13:30,headoncollision,2,1,fourlane,straight,junction,fine,Drunk & Drive,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+148,04/07/2016,05:30,overspeed,2,2 & 3,fourlane,sharpcurve,junction,fine,Car over speed and hit to Auto vehicle out of control,0,1,0,0,Ambulance,The injured person shifted to MVJ Hospital
+149,04/07/2016,03:00,headoncollision,1 & 3,2 & 3 & 5,fourlane,straight,junction,fine,Truck over speed and hit to car,1,0,1,0,Ambulance/Petrol Vehicle,The fatal body and injured person shifted to MVJ Hospital
+150,04/07/2014,03:00,others,1,1 & 3,fourlane,straight,junction,fine,Over Speed Vehicle out of Control,2,0,0,0,Ambulance/Petrol Vehicle,shifted to Hospital MVJ Hoskote
+151,04/06/2017,11:30,headoncollision,2,2 & 9,fourlane,slightcurve,junction,fine,car over speed and hit to two wheeler,0,1,0,0,Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+152,04/06/2016,05:15,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to car,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+153,04/06/2016,05:45,overspeed,2,2 & 5,fourlane,straight,tjunction,fine,LCV over speed and hit to Truck,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Govt Hospital KR Puram
+154,04/05/2018,03:00,headoncollision,2,2 & 9,fourlane,straight,junction,lightrain,Truck over speed and hit to Car,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+155,04/05/2018,02:15,skidding,1,2 & 5,fourlane,straight,junction,fine,Unknown vehicle over speed and hit to two wheeler,1,0,2,0,Ambulance/Petrol Vehicle,The fatal body & injured person shifted to Jalappa Hospital
+156,04/05/2016,23:35,headoncollision,3,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to Two wheeler,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+157,04/05/2014,02:00,others,2,2,fourlane,straight,junction,fine,Over Speed of Car,0,1,0,0,Ambulance/Petrol Vehicle,Serious Injures to Car Driver
+158,04/05/2014,02:00,others,2,2,fourlane,straight,junction,fine,Car,0,1,0,0,Ambulance/Petrol Vehicle,Due over speed of car collided with truck
+159,04/04/2018,07:00,overspeed,2,2,fourlane,straight,junction,fine,Truck over speed and hit to Two wheeler. Negligence Driving of Two wheeler.,0,1,0,0,Ambulance,The injured person shifted to Private Hospital Hoskote
+160,04/04/2016,18:30,headoncollision,2 & 3,2 & 5,fourlane,straight,junction,fine,Bus over speed hit to LCV,0,1,2,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+161,04/03/2017,22:00,overspeed,3,2,fourlane,straight,junction,fine,Car over speed self accident,0,0,1,0,Petrol Vehicle,The injured person shifted to Private Hospital Bhattarhalli
+162,04/03/2016,19:45,headoncollision,3,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to Tractor,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+163,04/02/2018,11:30,skidding,2,2 & 5,fourlane,straight,junction,fine,car over speed and hit to two wheeler,0,4,0,0,Petrol Vehicle,The injured person shifted to Govt Hospital Hoskote
+164,04/02/2016,21:35,headoncollision,1 & 3,2 & 5,fourlane,straight,junction,fine,Two wheeler over speed and hit to LCV,3,0,1,0,Ambulance,The fatal body and injured person shifted to Jalappa Hospital
+165,04/02/2015,23:20,others,1,2 & 3,fourlane,straight,junction,fine,Self Accident Drunk & Drive,1,0,0,0,Petrol Vehicle,The fatal body shifted to SNR Hospital
+166,04/12/2017,09:35,headoncollision,3,2 & 5,fourlane,straight,junction,fine,LCV over speed and hit to LCV,0,0,2,0,Petrol Vehicle,Minor injured Vehicle shifted to Kolar Traffic police station
+167,04/12/2014,13:25,skidding,2,2 & 3,fourlane,straight,junction,fine,Bike over speed fault of Motor vehicle,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+168,04/11/2016,19:45,headoncollision,3,2,fourlane,straight,junction,fine,Bus over speed and hit to Agricultural vehicle.,0,0,2,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+169,04/10/2017,23:30,headoncollision,2,2 & 3,fourlane,straight,junction,fine,LCV over speed self accident,0,1,0,0,Ambulance,The injured person shifted to Private Hospital Hoskote
+170,04/10/2016,03:15,rightturncollision,3,2 & 3,fourlane,straight,junction,fine,Car over speed self accident,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+171,04/10/2015,23:30,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Lorry over speed and Hit to Two wheeler,0,1,1,0,Ambulance/Petrol Vehicle,The injure person shifted to Hoskote Govt Hospital
+172,04/10/2014,22:36,overspeed,3,2,fourlane,straight,tjunction,fine,Car over speed,0,0,3,0,Petrol Vehicle,Traffic clear
+173,04/01/2018,11:00,headoncollision,3,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed hit to Bus,0,0,1,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+174,04/01/2017,09:20,skidding,2,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed Self accident,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+175,04/01/2017,14:55,headoncollision,1 & 2,2 & 5,fourlane,straight,junction,fine,Bus over speed and hit to two wheeler,1,1,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Govt Hoskote & Injured person shifted to MVJ Hospital
+176,04/01/2016,18:15,skidding,2 & 3,2 & 3 & 4,fourlane,straight,junction,fine,Self accident over speed,0,4,5,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+177,04/01/2015,01:00,headoncollision,2 & 3 & 4,2 & 5,fourlane,straight,junction,fine,Truck ramped to car,0,1,1,2,Ambulance,The injured person shifted to SNR Hospital
+178,31/08/2014,16:32,others,3,2,fourlane,straight,junction,fine,Maurthi van hit to Milk van over speed,0,1,1,0,Ambulance/Petrol Vehicle,The injured persons shifted to MVJ Hospital
+179,31/07/2015,20:00,overspeed,1,2 & 5,fourlane,straight,tjunction,fine,Two wheeler over speed and hit to Road crossing pedestrian,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to MVJ Hospital
+180,31/07/2015,13:05,headoncollision,1,1,fourlane,slightcurve,junction,fine,Bike over speed and hit to Tractor,0,0,1,0,Petrol Vehicle,The minor injured person shifted to Hospital
+181,31/05/2015,09:35,others,3,2,fourlane,straight,junction,fine,Car,0,0,1,0,Petrol Vehicle,Car hits truck by over speeding
+182,31/03/2017,21:35,overspeed,1 & 4,2 & 9,fourlane,slightcurve,junction,fine,Bus over speed. Defects in mechanical condition,1,0,0,8,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+183,31/03/2016,12:20,overspeed,1,1 & 2,fourlane,straight,junction,fine,Drunk & Drive of car driver,2,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+184,31/03/2014,15:00,others,3,3,fourlane,slightcurve,tjunction,fine,"Truck over speed, vehicle out of control and vehicle skidding the shoulder side",0,0,1,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+185,31/03/2014,04:30,overspeed,2 & 3 & 4,2 & 5,fourlane,slightcurve,junction,fine,Car hit to the other car because of over speed on the carriageway and vehicle out of control,0,1,2,3,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+186,31/12/2017,08:50,skidding,4,2,fourlane,straight,junction,fine,Two wheeler over speed Self accident,0,0,0,1,Petrol Vehicle,"There is no injured, traffic cleared immediately."
+187,31/12/2017,08:50,skidding,4,2,fourlane,straight,junction,fine,Two wheeler over speed Self accident,0,0,0,1,Petrol Vehicle,"There is no injured, traffic cleared immediately."
+188,31/10/2017,10:00,overspeed,3,2,fourlane,straight,junction,fine,Truck over speed and hit to Truck,0,0,1,0,Ambulance,The injured person shifted to Private Hospital Hoskote
+189,31/10/2016,11:30,headoncollision,1 & 2,2 & 5,fourlane,straight,junction,fine,Truck over speed and hit to Two wheeler,1,1,0,0,Ambulance/Petrol Vehicle,The fatal & Injured person shifted to Govt. Hospital Hoskote
+190,31/10/2014,10:30,skidding,2,3 & 4,fourlane,straight,junction,fine,Two wheeler over speed in the carriageway in front of vehicle suddenly overtaking the two wheeler out of control and skidding on the carriageway,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+191,31/01/2016,10:45,headoncollision,3,2 & 4,fourlane,straight,junction,fine,Car over speed and hit to Two wheeler,0,0,2,0,Ambulance,The injured person shifted to Jalappa Hospital
+192,30/09/2015,14:10,skidding,2,1,fourlane,straight,junction,fine,Self accident Drunk & Drive,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to KR Puram Govt Hospital
+193,30/08/2015,11:30,overspeed,2,2,fourlane,straight,junction,fine,Car over speed and hit to car,0,2,0,0,Ambulance,The injured person shifted to MVJ Hospital
+194,30/07/2017,19:15,skidding,1,2,fourlane,straight,junction,fine,Unknown vehicle hit and run while road crossing,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+195,30/07/2016,15:00,overspeed,3,2 & 3 & 9,fourlane,straight,junction,fine,0,0,0,2,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+196,30/07/2015,05:00,headoncollision,1,2 & 5,fourlane,slightcurve,tjunction,fine,Car Hit to the Multi axle,2,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+197,30/06/2014,11:30,others,2 & 3,2,fourlane,straight,junction,fine,Car over speed,0,4,1,0,Petrol Vehicle,Helping Patrolling & 108 Shifted to Jalapa hospital
+198,30/06/2014,11:30,others,2 & 3,2,fourlane,straight,junction,fine,Car over speed,0,4,1,0,Petrol Vehicle,Helping Patrolling & 108 Shifted to Jalapa hospital
+199,30/05/2016,05:00,headoncollision,1 & 2,2 & 5,fourlane,straight,junction,fine,Multi axle over speed and hit to Multi axle,1,1,0,0,Ambulance/Petrol Vehicle,The Fatal & Injured person shifted to Jalappa Hospital
+200,30/05/2015,21:30,others,3,2,fourlane,straight,junction,fine,Bike,0,2,1,2,Ambulance,Bike rider hits car with over speed
+201,30/04/2017,22:30,headoncollision,1,9,fourlane,straight,junction,fine,car over speed and hit to two wheeler,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to MVJ Hospital
+202,30/04/2017,16:50,skidding,1,7,fourlane,slightcurve,junction,fine,Unknown vehicle hit and run while road crossing,1,0,0,0,Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+203,30/03/2018,11:10,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Truck over speed and hit to Bus,0,22,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+204,30/03/2018,21:00,overspeed,3,2,fourlane,straight,junction,fine,car over speed and hit to Bus,0,0,3,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+205,30/03/2016,07:40,skidding,1,7,fourlane,straight,junction,fine,car over speed hit to road crossing Pedestrian,1,0,0,0,Ambulance,The fatal body shifted to Jalappa Hospital
+206,30/01/2018,21:30,skidding,3,2 & 4,fourlane,slightcurve,junction,fine,Two wheeler over speed Self accident,0,0,2,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+207,03/09/2017,14:25,headoncollision,2,2 & 4,fourlane,straight,junction,fine,Two wheeler riding and over speed hit to Truck,0,3,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Silicon city Hospital
+208,03/09/2017,17:30,skidding,3,9,fourlane,straight,junction,fine,LCV over speed self accident due to defect in mechanical condition,0,0,1,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+209,03/09/2016,20:15,skidding,3,1 & 3,fourlane,straight,junction,fine,Two wheeler over speed Drunk & Drive,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+210,03/09/2015,13:45,rightturncollision,3,2 & 3,fourlane,slightcurve,junction,fine,Car over speed vehicle out of control,0,0,3,0,Ambulance,The injured person shifted to SNR Hospital
+211,03/08/2017,09:00,skidding,1,2 & 5,fourlane,straight,junction,fine,car over speed and hit to two wheeler,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+212,03/08/2016,06:00,overspeed,1,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to road crossing Pedestrian,1,0,0,0,Ambulance,The fatal body shifted to Jalappa Hospital
+213,03/08/2015,07:15,headoncollision,2,2 & 5,fourlane,slightcurve,junction,fine,Truck hit to Car,0,1,2,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+214,03/07/2016,02:25,headoncollision,2,2 & 5,fourlane,slightcurve,junction,fine,Truck over speed and hit to Auto,0,4,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+215,03/06/2016,05:30,headoncollision,3,2 & 3 & 4,fourlane,straight,junction,fine,Multi axle over speed and hit to Two wheeler,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+216,03/05/2018,06:00,skidding,3,2 & 4,fourlane,straight,junction,fine,Self accident Two wheeler over speed,0,0,2,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+217,03/04/2015,10:30,others,3 & 4,2 & 3,fourlane,straight,junction,fine,Car over speed and vehicle out of control,0,0,1,2,Ambulance,The injured person shifted to Jalappa Hospital
+218,03/04/2015,04:30,headoncollision,4,2 & 5,fourlane,straight,junction,fine,Truck overtaking and Hit to the KSRTC Bus,0,0,0,20,Petrol Vehicle,The travel passenger all safe non-injured
+219,03/04/2014,16:30,headoncollision,2,5,fourlane,straight,junction,fine,Mini Truck,0,2,7,0,Ambulance/Petrol Vehicle,Mini Truck moving in wrong direction
+220,03/02/2016,19:15,headoncollision,3,2 & 5,fourlane,straight,yjunction,fine,Car over speed and hit to Two wheeler,0,0,2,0,Ambulance,The injured person shifted to Mulbagal Govt Hospital
+221,03/02/2015,13:45,skidding,2,2 & 4,fourlane,straight,junction,fine,Over speed of Motor Vehicle,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+222,03/12/2017,18:50,skidding,3,2,fourlane,straight,junction,fine,car over speed and hit to two wheeler,0,0,1,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Bhattarhalli
+223,03/12/2016,19:10,overspeed,3,7,fourlane,straight,tjunction,fine,Car over speed and hit to road crossing pedestrian. Fault of Pedestrian.,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+224,03/12/2015,09:30,skidding,3,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed Hit to LCV and skidding,0,0,1,0,Ambulance/Petrol Vehicle,The injured person shited to Govt Hospital
+225,03/11/2017,17:00,headoncollision,2,2 & 3,fourlane,straight,junction,fine,Truck over speed and hit to Car,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+226,03/10/2016,10:35,collisionbrush,3,4,fourlane,straight,junction,fine,Two wheeler over speed and hit to two wheeler,0,0,1,0,Petrol Vehicle,The injured person shifted to SNR Hospital Koalr
+227,03/01/2018,21:50,overspeed,2,2 & 5,fourlane,straight,junction,fine,Truck over speed and hit to Car,0,1,0,0,Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+228,03/01/2017,10:50,skidding,2,2,fourlane,straight,junction,fine,Two wheeler over speed Self accident,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Govt Hospital Avalahalli
+229,29/08/2015,14:35,skidding,3,4,fourlane,straight,junction,fine,Bike over speed fault of Motor vehicle,0,0,2,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+230,29/08/2014,11:00,others,3,2 & 5,fourlane,straight,tjunction,fine,Vehicle parking in shoulder portion back side the two wheeler over speed come and Hit to the Loory,0,0,2,0,Ambulance/Petrol Vehicle,The injured persons shifted to KR Puram Govt Hospital
+231,29/07/2017,00:45,headoncollision,1,2,fourlane,straight,junction,fine,Car over speed and hit to car,1,0,0,0,Ambulance,The fatal body shifted to Govt. Hospital Hoskote
+232,29/07/2017,02:00,rightturncollision,1,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to car,1,0,0,0,Ambulance,The fatal body shifted to MVJ Hospital
+233,29/07/2016,17:00,headoncollision,3,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to Auto,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+234,29/07/2015,16:40,skidding,3,1,fourlane,straight,junction,fine,Drunk & Drive,0,0,2,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+235,29/06/2017,06:00,headoncollision,1,2 & 9,fourlane,straight,junction,fine,car over speed and hit to two wheeler. Defects in mechanical condition,3,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+236,29/06/2016,23:30,headoncollision,1,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to Two wheeler,1,0,0,0,Ambulance,The fatal body shifted to Jalappa Hospital
+237,29/06/2015,08:30,skidding,1 & 2,2 & 4,fourlane,slightcurve,junction,fine,Fault of driver of Motor vehicle,1,2,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to MVJ Hospital
+238,29/05/2016,07:00,headoncollision,3,1 & 2,fourlane,slightcurve,junction,fine,Bike over speed hit to car,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+239,29/05/2016,21:35,skidding,1,2 & 5,fourlane,straight,junction,fine,Car over speed hit to run,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+240,29/05/2016,19:35,headoncollision,2 & 3,2 & 5,fourlane,straight,junction,fine,Bus over speed and hit to Bike,0,1,1,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+241,29/05/2015,10:00,others,3,2,fourlane,straight,junction,fine,Car,0,0,1,3,Ambulance,Car lost control by over speed
+242,29/05/2014,14:15,others,2,2,fourlane,straight,junction,fine,Car,0,1,0,0,Ambulance/Petrol Vehicle,Over speed car collided with two wheeler
+243,29/04/2014,22:30,headoncollision,1,3,fourlane,straight,junction,fine,Bike,1,0,0,0,Ambulance/Petrol Vehicle,Bike rider was moving in the wrong direction car rammed the bike
+244,29/03/2018,05:00,headoncollision,1 & 3,2 & 5,fourlane,straight,junction,fine,Fault of Agricultural vehicle hit to Truck,1,0,1,0,Ambulance/Petrol Vehicle,The fatal body & injured person shifted to Jalappa Hospital
+245,29/03/2016,07:35,skidding,2 & 3,2 & 3,fourlane,straight,junction,fine,Car over speed vehicle out of control Self accident,0,2,1,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+246,29/12/2017,11:30,headoncollision,1,2 & 4,fourlane,straight,forearmjunction,fine,Two wheeler over speed and hit to truck,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Govt. Hospital Hoskote
+247,29/12/2017,17:45,skidding,1,2 & 3,fourlane,straight,junction,fine,Two wheeler over speed Self accident,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Govt Hoskote
+248,29/11/2017,14:50,overspeed,3,1,fourlane,straight,junction,fine,Car over speed self accident. Drunken & Drive,0,0,1,0,Ambulance,The injured person shifted to MVJ Hospital
+249,29/11/2014,08:30,others,2 & 3 & 4,1 & 2,fourlane,straight,junction,fine,Self Accident Drunk & Drive,0,1,1,1,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+250,29/11/2014,22:30,others,2 & 3,2 & 4,fourlane,slightcurve,junction,fine,Self accident due to vehicle tyre puncher and over speed vehicle out of control,0,1,1,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+251,29/10/2016,09:05,overspeed,2 & 3,7,fourlane,straight,forearmjunction,fine,Car over speed and hit to road crossing pedestrian. Fault of Pedestrian.,0,1,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+252,29/01/2016,07:35,skidding,3,2 & 3,fourlane,straight,junction,fine,Car over speed self accident,0,0,2,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+253,29/01/2016,22:40,skidding,3,2 & 4,fourlane,straight,tjunction,fine,Two wheeler over speed self accident,0,0,1,0,Ambulance,The injured person shifted to Devaryasamudra Hospital
+254,28/09/2017,06:10,overspeed,1,2,fourlane,straight,junction,fine,Truck over speed and hit to road crossing pedestrian,1,0,0,0,Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+255,28/09/2016,16:10,headoncollision,1,2 & 5,fourlane,straight,junction,fine,Truck over speed and hit to LCV,1,0,0,0,Ambulance,The fatal body shifted to MVJ Hospital
+256,28/08/2016,00:35,headoncollision,3,2 & 4,fourlane,slightcurve,junction,fine,Car over speed and hit to road crossing two wheeler,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+257,28/08/2016,14:30,headoncollision,3 & 4,4,fourlane,straight,junction,fine,Two wheeler over speed and hit to Car,0,0,1,1,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+258,28/08/2015,10:55,headoncollision,3,2 & 3,fourlane,straight,junction,fine,Car Hit to Truck,0,0,2,0,Ambulance,The injured person shifted to Jalappa Hospital
+259,28/08/2015,05:30,headoncollision,3,2 & 4,fourlane,straight,junction,fine,Car over speed and hit to Truck,0,0,2,0,Petrol Vehicle,The injured person shifted to MVJ Hospital
+260,28/07/2017,14:45,skidding,2,2,fourlane,straight,junction,fine,Two wheeler over speed and hit to car,0,2,0,0,Ambulance,The injured person shifted to MVJ Hospital
+261,28/06/2017,10:17,skidding,2,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed Self accident,0,2,0,0,Ambulance,The injured person shifted to Private Hospital Bhattarhalli
+262,28/06/2016,05:15,overspeed,1,2 & 5,fourlane,straight,junction,fine,Truck over speed and hit to car,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Govt Hospital Hoskote
+263,28/06/2015,11:25,headoncollision,2 & 3,2 & 5,fourlane,slightcurve,junction,fine,Fault of car vehicle over speed and hit to bike,0,1,1,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+264,28/04/2017,09:35,skidding,3,2 & 9,fourlane,straight,junction,fine,Two wheeler over speed Self accident due to defect in mechanical condition,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+265,28/04/2016,13:15,overspeed,3,2,fourlane,straight,junction,fine,Car U turn the opening that time opposite car over speed and hit to car,0,0,1,0,Ambulance,The injured person shifted to Private Hospital Hoskote
+266,28/04/2015,15:45,headoncollision,1,1,fourlane,slightcurve,junction,fine,Car Hit and run,1,0,0,0,Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+267,28/04/2014,19:30,others,3,3,fourlane,straight,junction,fine,Mini Truck,0,0,1,0,Ambulance/Petrol Vehicle,Overspeeding of Mini truck collided with truck
+268,28/03/2016,19:00,headoncollision,1 & 2,3 & 4,fourlane,straight,junction,fine,Car hit to two wheeler. Fault of two wheeler illegal opening crossing,1,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+269,28/03/2016,21:35,overspeed,2,1,fourlane,straight,junction,fine,Three wheeler Driver Drunk & Drive,0,2,0,0,Ambulance,The injured person shifted to Jalappa Hospital
+270,28/03/2014,07:30,headoncollision,3,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to the lorry,0,0,2,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+271,28/02/2018,13:45,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Truck over speed and hit to Two wheeler,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Bhattarhalli
+272,28/02/2016,16:30,headoncollision,1 & 2,2 & 5,fourlane,straight,junction,fine,Rash driving of Tractor and Hit to Mini bus,1,5,0,0,Ambulance/Petrol Vehicle,The Fatal body & Injured person shifted to MVJ Hospital
+273,28/02/2016,22:30,headoncollision,3,2 & 5,fourlane,slightcurve,junction,fine,Car over speed and hit to Two wheeler,0,0,2,0,Ambulance,The injured person shifted to SNR Hospital
+274,28/02/2015,20:30,headoncollision,1,2 & 5,fourlane,sharpcurve,junction,fine,The vehicle hit and run,1,0,0,0,Petrol Vehicle,The fatal body shifted to SNR Hospital
+275,28/11/2016,19:45,skidding,3,2,fourlane,straight,junction,fine,Two wheeler over speed Self accident,0,0,1,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+276,28/11/2016,03:10,headoncollision,1 & 3,2 & 5,fourlane,straight,junction,fine,Truck over speed and hit to Car,1,0,1,0,Ambulance,The fatal & Injured person shifted to Govt. Hospital Hoskote
+277,28/11/2015,08:35,skidding,3,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to Road Pedestrian,0,0,2,0,Ambulance/Petrol Vehicle,The injured person shifted to Govt Hospital
+278,28/10/2016,11:45,headoncollision,3,2 & 5,fourlane,straight,junction,fine,car over speed and hit to two wheeler,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+279,28/10/2016,11:45,headoncollision,3,2 & 5,fourlane,straight,junction,fine,car over speed and hit to two wheeler,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+280,28/01/2017,08:30,others,2,9,fourlane,straight,junction,fine,Truck tyre burst self accident,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+281,28/01/2017,08:30,skidding,2,9,fourlane,straight,junction,fine,Truck tyre burst self accident,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+282,28/01/2016,22:00,rearendcollision,1 & 3,2 & 5,fourlane,straight,junction,fine,Car over speed and Hit to Agricultural vehicle,1,0,4,0,Ambulance/Petrol Vehicle,The fatal body and injured person shifted to Jalappa Hospital
+283,27/09/2016,22:30,collisionbrush,3,5,fourlane,straight,junction,fine,Car over speed and hit to Truck,0,0,1,0,Petrol Vehicle,The injured person shifted to KR Puram Private Hospital
+284,27/09/2015,05:00,skidding,4,2,fourlane,straight,junction,fine,Self accident over speed and skidding,0,0,0,2,Ambulance/Petrol Vehicle,The Non injured person shifted Jalappa Hospital
+285,27/08/2015,21:20,skidding,2,1,fourlane,straight,junction,fine,Drunk & Drive Two wheeler,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+286,27/08/2014,21:45,others,1 & 2,1,fourlane,straight,junction,fine,Bike Over Speed Drunken and Drive,1,1,0,0,Ambulance/Petrol Vehicle,Fatal body shifted to SNR Hospital
+287,27/07/2016,10:45,headoncollision,3,5,fourlane,straight,junction,fine,Truck over speed and hit to car,0,0,1,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+288,27/07/2016,10:35,skidding,3,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed self accident,0,0,1,0,Petrol Vehicle,The injured person shifted to SNR Hospital
+289,27/07/2015,22:15,headoncollision,3,2 & 3,fourlane,straight,tjunction,fine,Two wheeler over speed and hit to Two wheeler,0,0,1,0,Ambulance/Petrol Vehicle,The injure person shifted to MVJ Hospital
+290,27/06/2017,12:30,headoncollision,2,2,fourlane,straight,junction,fine,Car over speed and hit to car,0,5,0,0,Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+291,27/06/2016,06:29,skidding,3,3 & 4,fourlane,slightcurve,junction,fine,Two wheeler over speed self accident,0,0,1,0,Ambulance,The injured person shifted to Jalappa Hospital
+292,27/06/2015,17:00,skidding,1,2,fourlane,straight,junction,fine,Bike over speed fault of Motor vehicle,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to MVJ Hospital
+293,27/06/2015,02:35,skidding,4,3,fourlane,sharpcurve,junction,fine,The car driver sleeping vehicle out of control- non injured,0,0,0,4,Petrol Vehicle,-
+294,27/06/2014,14:30,others,4,3,fourlane,straight,junction,fine,Lorry,0,0,0,2,Petrol Vehicle,Over Speed out of control Helping Patrolling.
+295,27/05/2016,06:00,overspeed,3,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to Bus,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+296,27/05/2015,06:35,headoncollision,3 & 4,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to Bike,0,0,1,2,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+297,27/04/2016,21:30,others,3,2 & 3,fourlane,straight,junction,fine,Multi axle over speed self accident,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+298,27/04/2016,17:56,headoncollision,2,2,fourlane,straight,junction,fine,Truck over speed and hit to the parked truck,0,1,0,0,Ambulance,The injured person shifted to Govt. Hospital Hoskote
+299,27/03/2016,13:20,skidding,3,3,fourlane,straight,junction,fine,Car over speed Driver sleeping vehicle skidding,0,0,6,0,Ambulance/Petrol Vehicle,The injured person shifted to SNR Hospital
+300,27/02/2016,20:30,overspeed,3,2 & 3,fourlane,straight,tjunction,fine,Car over speed vehicle out of control Self accident,0,0,3,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+301,27/11/2016,14:35,headoncollision,2,2 & 5,fourlane,straight,junction,fine,car over speed and hit to two wheeler,0,1,0,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+302,27/11/2015,12:20,skidding,4,2,fourlane,straight,junction,fine,Bike over speed and skidding self Accident,0,0,0,1,Petrol Vehicle,The person shift to Jalappa Hospital
+303,27/11/2015,21:00,headoncollision,4,3 & 5,fourlane,straight,junction,fine,BUS Hit to LCV,0,0,1,2,Ambulance/Petrol Vehicle,The injure Person shifted to Jalappa Hospital
+304,27/11/2015,12:45,headoncollision,1 & 3,2 & 5,fourlane,straight,junction,fine,Car over speed and Hit to two wheeler,1,0,1,0,Ambulance/Petrol Vehicle,The fatal body & Injured person shifted to Govt Hospital
+305,27/11/2015,10:45,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Car over speed and Hit to Two wheeler,0,3,0,0,Ambulance/Petrol Vehicle,The Injured person shifted to MVJ Hospital
+306,27/11/2014,19:00,overspeed,1,2 & 5,fourlane,straight,junction,fine,The car hit to the road pedestrian the fault of car over speed,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+307,27/10/2015,14:10,headoncollision,1 & 2,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to Two wheeler,1,2,0,0,Ambulance/Petrol Vehicle,The fatal body and injured person shifted to Jalappa Hospital
+308,27/10/2015,10:15,headoncollision,3,2,fourlane,straight,junction,fine,LCV over speed and Hit to Two wheeler,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+309,27/01/2018,05:10,skidding,3,3 & 9,fourlane,slightcurve,junction,fine,LCV over speed self accident due to defect in mechanical condition,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+310,27/01/2017,17:20,headoncollision,2,5,fourlane,straight,junction,fine,Two wheeler over speed and hit to Multi axle,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Bhattarhalli
+311,27/01/2015,01:45,others,2 & 3,3,fourlane,straight,junction,fine,Driver sleeping,0,1,2,0,Ambulance/Petrol Vehicle,The injure person shifted to MVJ Hospital
+312,26/08/2016,19:45,overspeed,1,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to road crossing Pedestrian,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+313,26/07/2017,16:35,headoncollision,2,2 & 9,fourlane,straight,junction,fine,Two wheeler over speed and hit to Mini Bus,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Silcon city Hospital
+314,26/07/2017,05:15,headoncollision,3,2,fourlane,straight,junction,fine,Truck over speed hit to JCB,0,0,1,0,Petrol Vehicle,Minor injured Vehicle shifted to Kolar Traffic police station
+315,26/07/2015,15:15,overspeed,1,3 & 7,fourlane,slightcurve,junction,fine,Car hit to road crossing pedestrian,1,0,0,0,Ambulance,The fatal body shifted to SNR Hospital
+316,26/06/2017,16:00,headoncollision,2,3 & 5,fourlane,straight,junction,fine,car over speed and hit to two wheeler,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+317,26/06/2016,09:20,skidding,1,7,fourlane,straight,junction,fine,Car over speed and hit to road crossing Pedestrian. Fault of Road crossing pedestrian,2,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to MVJ Hospital
+318,26/05/2016,01:54,skidding,3,1,fourlane,straight,junction,fine,Two wheeler over speed self accident,0,0,1,0,Ambulance,The injured person shifted to MVJ Hospital
+319,26/03/2017,15:50,headoncollision,2,2 & 5,fourlane,slightcurve,junction,fine,car over speed and hit to Auto,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+320,26/02/2018,06:10,skidding,1,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed Self accident,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Govt. Hospital Hoskote
+321,26/02/2016,21:30,skidding,1 & 3,1 & 2,fourlane,slightcurve,junction,fine,Two wheeler over speed Drunk & Drive,1,0,1,0,Ambulance/Petrol Vehicle,The Fatal & Injured person shifted to Jalappa Hospital
+322,26/02/2015,20:35,others,2 & 4,2 & 4,fourlane,straight,staggeredjunction,fine,Bike over speed and vehicle skidding,0,1,0,1,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+323,26/12/2016,15:40,headoncollision,1 & 3,2 & 5,fourlane,straight,junction,fine,Multi Axle over speed and hit to Two wheeler,1,0,1,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+324,26/11/2014,19:10,others,2 & 3 & 4,2 & 3,fourlane,straight,junction,fine,Self accident due to vehicle tyre puncher and over speed vehicle out of control,0,1,2,8,Ambulance,The injured person shifted to Jalappa Hospital
+325,26/11/2014,18:30,others,2,4,fourlane,straight,junction,fine,Bike over speed fault of Motor vehicle,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+326,26/10/2017,22:45,overspeed,3,2,fourlane,straight,junction,fine,Car over speed and hit to car. Negligence driving,0,0,1,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+327,26/10/2017,22:50,headoncollision,1 & 3,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to Agriculture vehicle.,1,0,1,0,Ambulance,The fatal body shifted to Private Hospital Hoskote
+328,26/10/2014,17:30,overspeed,2,2 & 5,fourlane,straight,yjunction,fine,Car over speed in carriageway and overtaking the another vehicle and Cross the road of other vehicle to Hit in Junction portion,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+329,26/01/2016,00:20,headoncollision,2,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to Car,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+330,26/01/2016,03:00,skidding,2,2 & 3,fourlane,straight,junction,fine,Car over speed self accident,0,4,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+331,26/01/2015,23:30,skidding,1,1,fourlane,straight,junction,fine,Self Accident Drunk & Drive,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+332,25/09/2016,00:30,overspeed,2,2 & 3,fourlane,slightcurve,junction,fine,Car over speed self accident,0,1,0,0,Petrol Vehicle,The injured person shifted to MVJ Hospital
+333,25/09/2016,08:30,skidding,3,2,fourlane,slightcurve,junction,fine,Two wheeler over speed Self accident,0,0,1,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+334,25/08/2016,21:45,headoncollision,2,9,fourlane,straight,junction,fine,Car over speed vehicle out of control due to defects in mechanical condition and Hit to the two wheeler,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+335,25/08/2016,21:45,overspeed,2 & 3,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to Two wheeler,0,1,1,0,Ambulance/Petrol Vehicle,The injured person shifted to Srinivasa Hospital
+336,25/08/2014,15:30,others,2 & 4,1,fourlane,straight,junction,fine,Drunken and Drive,0,1,0,1,Ambulance/Petrol Vehicle,The injured persons shifted to Jalapa Hospital
+337,25/07/2014,15:45,skidding,3 & 4,2,fourlane,straight,junction,fine,Omini,0,0,2,3,Ambulance/Petrol Vehicle,Shifted to RL Jalappa Hospital Kolar
+338,25/06/2017,21:00,headoncollision,3,2,fourlane,straight,junction,fine,car over speed and hit to two wheeler,0,0,1,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+339,25/06/2017,11:00,headoncollision,1,2 & 5,fourlane,slightcurve,junction,fine,car over speed and hit to two wheeler,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+340,25/06/2017,20:00,overspeed,1,2,fourlane,straight,junction,fine,Unknown vehicle over speed and hit to two wheeler,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+341,25/06/2016,19:45,skidding,2,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed self accident,0,3,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+342,25/06/2016,20:10,headoncollision,2 & 3,5,fourlane,straight,junction,fine,Multi axle wrong route driving and hit to car,0,1,2,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+343,25/06/2015,02:30,skidding,3,1,fourlane,slightcurve,junction,fine,Bike drunk & drive,0,0,1,0,Ambulance,The injured person shifted to SNR Hospital
+344,25/05/2017,14:30,skidding,2,2 & 5,fourlane,straight,junction,fine,Truck over speed and hit to Two wheeler,0,1,0,0,Petrol Vehicle,The injured person shifted to Private Hospital Bhattarhalli
+345,25/05/2015,14:00,others,3,2,fourlane,straight,junction,fine,Bike,0,0,1,1,Petrol Vehicle,Bike lost control by over speed (self accident)
+346,25/12/2016,23:20,skidding,1,2 & 9,fourlane,straight,junction,fine,"Truck over speed, Self accident. Defect in mechanical conditions.",1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Private Hospital Hoskote
+347,25/11/2014,23:15,headoncollision,2 & 3 & 4,2 & 3,fourlane,slightcurve,junction,fine,Car hit to the other car because of over speed on the carriageway and vehicle out of control,0,1,2,2,Petrol Vehicle,The injured person shifted to SNR Hospital
+348,25/11/2014,23:15,headoncollision,2 & 3 & 4,2 & 3,fourlane,slightcurve,junction,fine,Car hit to the other car because of over speed on the carriageway and vehicle out of control,0,1,2,2,Petrol Vehicle,The injured person shifted to SNR Hospital
+349,25/10/2017,06:00,overspeed,3,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to car,0,0,3,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+350,25/01/2018,13:40,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Unknown vehicle over speed and hit to two wheeler,0,2,0,0,Petrol Vehicle,The injured person shifted to Govt. Hospital Hoskote
+351,25/01/2016,23:30,headoncollision,3,2 & 5,fourlane,straight,junction,fine,LCV over speed and hit to Truck,0,0,2,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+352,25/01/2015,09:30,headoncollision,2 & 3 & 4,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to Bike,0,1,1,2,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+353,24/09/2017,01:55,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to car,0,2,0,0,Ambulance,The injured person shifted to Private Hospital Hoskote
+354,24/09/2017,14:00,overspeed,2,2,fourlane,straight,junction,fine,Car over speed hit to Three wheeler,0,5,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+355,24/08/2016,23:45,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Truck over speed and hit to car,0,2,0,0,Ambulance,The injured person shifted to MVJ Hospital
+356,24/08/2016,19:30,overspeed,1,2,fourlane,straight,junction,fine,Unknown vehicle hit and run,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+357,24/08/2016,23:45,overspeed,2,2 & 5,fourlane,straight,junction,fine,Truck over speed and hit to LCV,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+358,24/08/2015,20:00,headoncollision,1,2 & 4,fourlane,straight,junction,fine,Fault of driver of Motor vehicle,1,0,0,0,Petrol Vehicle,The fatal body shifted to SNR Hospital
+359,24/08/2014,22:45,overspeed,2 & 3 & 4,2 & 5,fourlane,straight,junction,fine,BBMP vehicle break down in Main carriage way another vehicle back side coming over speed the vehicle hit to the break down vehicle and vehicle skidding in centre of the road oppsite side KSRTC bus come in the main carraigeway that vehicle suddenly break the vehcile to hit median guard rail,0,4,3,2,Ambulance/Petrol Vehicle,Injured peoples are shifted to Hospital KR Puram
+360,24/07/2015,01:15,headoncollision,3,1,fourlane,straight,junction,fine,Car over speed and hit to jeep,0,0,2,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+361,24/06/2016,22:45,headoncollision,3,2,fourlane,straight,junction,fine,Multi axle over speed and hit to LCV,0,0,1,0,Ambulance,The injured person shifted to MVJ Hospital
+362,24/06/2016,16:00,overspeed,1,2 & 7,fourlane,slightcurve,junction,fine,Bus over speed and Hit to Road crossing Pedestrian,1,0,0,0,Ambulance,The fatal body shifted to Jalappa Hospital
+363,24/06/2016,16:00,skidding,1,7,fourlane,straight,junction,fine,Bus over speed and Hit to Road crossing Pedestrian,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+364,24/06/2015,17:00,overspeed,3,2 & 5,fourlane,straight,tjunction,fine,Car over speed and Hit to LCV,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+365,24/04/2016,00:30,others,3,2 & 3,fourlane,straight,junction,fine,LCV over speed vehicle out of control self accident,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+366,24/04/2016,04:45,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Car U turn the opening that time opposite car over speed and hit to car,0,3,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+367,24/02/2018,13:45,headoncollision,2,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to truck,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+368,24/02/2017,19:00,skidding,2,2 & 3,fourlane,slightcurve,junction,fine,Car over speed self accident,0,3,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+369,24/02/2016,06:30,skidding,1,2 & 3 & 4,fourlane,straight,junction,fine,Car over speed Tyre blast vehicle out of control,1,0,0,0,Ambulance,The fatal body shifted to Jalappa Hospital
+370,24/02/2016,07:35,skidding,3,2 & 3,fourlane,straight,junction,fine,Car over speed vehicle out of control Self accident,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+371,24/02/2016,20:30,headoncollision,3,2 & 5,fourlane,slightcurve,junction,fine,Car over speed and Hit to Govt. Bus,0,0,3,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+372,24/12/2017,15:45,overspeed,1,2 & 5,fourlane,straight,junction,fine,Truck over speed and hit to Two wheeler,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+373,24/12/2015,23:40,rightturncollision,3,4,fourlane,straight,junction,fine,Car over speed and hit to Two wheeler,0,0,2,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+374,24/12/2014,21:30,others,2,1,fourlane,slightcurve,junction,fine,Drunk & Drive Bike,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+375,24/11/2017,09:00,headoncollision,3,2 & 5,fourlane,straight,junction,fine,Truck over speed and hit to Car,0,0,1,0,Petrol Vehicle,Minor injured Vehicle shifted to Kolar Traffic police station
+376,24/11/2016,13:30,skidding,3,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to two wheeler,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+377,24/11/2014,17:45,skidding,2,2 & 3,fourlane,straight,junction,fine,Bike over speed and vehicle skidding,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+378,24/10/2016,11:10,skidding,3 & 4,2 & 9,fourlane,straight,junction,fine,Car over speed self accident. Defects in mechanical condition,0,0,1,2,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+379,24/10/2016,11:10,skidding,3 & 4,2 & 9,fourlane,straight,junction,fine,Car over speed self accident. Defects in mechanical condition,0,0,1,2,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+380,24/10/2015,22:00,skidding,3,2 & 3,fourlane,straight,junction,fine,Two wheeler over speed and skidding,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+381,23/09/2016,17:00,skidding,3,9,fourlane,straight,junction,fine,Self accident,0,0,2,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+382,23/09/2015,11:00,skidding,1,2 & 3,fourlane,slightcurve,junction,fine,Two wheeler over speed and skidding,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to MVJ Hospital
+383,23/08/2016,16:35,headoncollision,3,2 & 5,fourlane,straight,junction,fine,Car over speed and Hit to LCV,0,0,1,0,Petrol Vehicle,There is no problem in minor injured trafficclear
+384,23/08/2015,17:45,headoncollision,2,2 & 4,fourlane,straight,junction,fine,Car over speed and hit to Two wheeler,0,2,0,0,Ambulance,The injured person shifted to MVJ Hospital
+385,23/08/2015,23:00,overspeed,2,2 & 3 & 4,fourlane,straight,junction,fine,Truck over speed and Hit to the Two wheeler,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+386,23/08/2014,14:30,others,2 & 3 & 4,5,fourlane,slightcurve,junction,fine,Omni car wrong side driving Hit to Tata Indica,0,2,1,2,Ambulance/Petrol Vehicle,The injured persons shifted to SNR Hospital
+387,23/08/2014,23:30,overspeed,3 & 4,2 & 3,fourlane,straight,junction,fine,TATA Ace Break Down vehicle parked in shoulder side another one vehicle Back side car over speed and Hit to TATA Ace and Median lane Car was over speed suddenly vehicle out off control again hit to shoulder lane car Total this portion contnius 6 vehicle are accident,0,0,4,6,Ambulance/Petrol Vehicle,Traffic Clear and Injured persons shifted to Hospital KR Puram
+388,23/07/2017,23:15,skidding,2,2,fourlane,straight,junction,fine,car over speed and hit to two wheeler,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+389,23/07/2015,06:15,headoncollision,1,2 & 3,fourlane,straight,junction,fine,Car over speed vehicle out of control,1,0,0,0,Petrol Vehicle,The fatal body shifted to SNR Hospital
+390,23/07/2015,19:15,overspeed,3,2 & 5,fourlane,straight,junction,fine,LCV hit to Bike,0,0,2,0,Ambulance,The minor injured person shifted to Hospital
+391,23/07/2015,15:00,skidding,1,2 & 3,fourlane,straight,junction,fine,Bike over speed and Hit to the tanker,1,0,0,0,Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+392,23/06/2016,19:20,headoncollision,3,2 & 4,fourlane,straight,tjunction,fine,LCV over speed and hit to Two wheeler,0,0,3,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+393,23/06/2016,19:20,headoncollision,3 & 4,2 & 5,fourlane,straight,tjunction,fine,LCV over speed and Hit to Two wheeler,0,1,2,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+394,23/06/2016,11:10,overspeed,2,2 & 4,fourlane,straight,junction,fine,Car over speed and hit to Two wheeler on over turn,0,1,0,0,Ambulance,The injured person shifted to MVJ Hospital
+395,23/06/2015,10:15,skidding,2,2 & 5,fourlane,straight,junction,fine,Fault of car vehicle over speed and hit to bike,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+396,23/06/2015,16:15,overspeed,2 & 3,2 & 5,fourlane,straight,junction,fine,Fault of car vehicle over speed and hit to bike,0,1,1,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+397,23/05/2018,14:10,collisionbrush,2,2 & 3,fourlane,straight,junction,fine,Car over speed and hit to car,0,1,0,0,Ambulance,The injured person shifted to Private Hospital Bhattarhalli
+398,23/05/2017,09:30,headoncollision,1,4,fourlane,straight,junction,cloudy,Two wheeler over taking the Bus. Negligible Driving of Two wheeler,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Private Hospital Hoskote
+399,23/05/2015,20:55,others,2,2 & 4,fourlane,straight,junction,fine,Bike over speed fault of Motor vehicle,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+400,23/05/2015,21:30,others,1,2,fourlane,straight,junction,fine,Bus,1,0,0,0,Ambulance,Bus lost control by over speed
+401,23/05/2015,21:30,overspeed,1,2 & 5,fourlane,slightcurve,junction,fine,Pedestrian road crossing in the carriageway Multi axle Hit and Run,1,0,0,0,Petrol Vehicle,The fatal body shifted to SNR Hospital
+402,23/04/2017,03:10,skidding,2,1,fourlane,straight,junction,fine,Self accident Drunk & Drive,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+403,23/04/2017,16:15,headoncollision,2,2 & 3,fourlane,straight,junction,fine,Car over speed and hit to Agriculture vehicle.,0,1,0,0,Petrol Vehicle,The injured person shifted to MVJ Hospital
+404,23/04/2017,17:00,headoncollision,2,2,fourlane,straight,junction,fine,car over speed and hit to two wheeler. Negligible driving,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+405,23/04/2016,20:45,skidding,2,2,fourlane,straight,junction,fine,Two wheeler over speed skidding because of over speed,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+406,23/04/2014,11:45,others,4,3,fourlane,straight,junction,fine,Car,0,0,0,1,Ambulance/Petrol Vehicle,Car driver slept while driving and rammed into the central median self accident
+407,23/03/2018,19:50,overspeed,2,2,fourlane,straight,junction,fine,Two wheeler over speed Self accident,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+408,23/02/2016,12:45,headoncollision,1 & 3,2 & 5,fourlane,sharpcurve,junction,fine,Car over speed and hit to Two wheeler,1,0,1,0,Petrol Vehicle,The fatal body & injured person shifted to Jalappa Hospital
+409,23/02/2016,12:45,headoncollision,1,1 & 4,fourlane,straight,junction,fine,Two wheeler over speed Drunk & Drive,1,0,0,0,Ambulance,The fatal body shifted to Jalappa Hospital
+410,23/12/2016,05:15,skidding,2,2,fourlane,straight,junction,fine,LCV over speed and hit to LCV,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Govt Hospital Avalahalli
+411,23/12/2015,17:35,headoncollision,4,2,fourlane,straight,junction,fine,Auto hit to the bike. Bike damaged,0,0,0,2,Petrol Vehicle,Non injured.
+412,23/11/2014,18:00,overspeed,3 & 4,2 & 3 & 7,fourlane,straight,junction,fine,Vehicle over speed and hit to the another vehicle,0,0,1,3,Ambulance,The fatal body shifted to SNR Hospital
+413,23/10/2017,12:30,skidding,2,2,fourlane,straight,junction,fine,car over speed and hit to two wheeler,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+414,23/10/2014,14:17,overspeed,3,2,fourlane,straight,tjunction,fine,Lorry over taking and Hit to the Car in Junction,0,0,2,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+415,23/01/2017,12:45,skidding,2,2,fourlane,straight,junction,fine,Self accident Two wheeler over speed,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+416,23/01/2016,20:20,headoncollision,3,2 & 5,fourlane,straight,tjunction,fine,Car hit to the other car because of over speed on the carriageway and vehicle out of control,0,0,1,0,Ambulance,The injured person shifted to MVJ Hospital
+417,22/09/2014,14:10,overspeed,2 & 3,2 & 3,fourlane,slightcurve,junction,fine,Car over speed,0,2,1,0,Ambulance/Petrol Vehicle,The injured persons shifted to Jalapa Hospital
+418,22/08/2016,10:00,skidding,2,2 & 4,fourlane,straight,junction,fine,Fault of Two wheeler over speed to crossing road car was hit to two wheeler.,0,1,0,0,Petrol Vehicle,The injured person shifted to KR Puram Private Hospital
+419,22/08/2016,16:30,headoncollision,3,4,fourlane,straight,junction,fine,Fault of Two wheeler over speed and hit to parking vehicle of Tractor,0,0,1,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+420,22/08/2015,19:10,skidding,1,1,fourlane,straight,junction,fine,Drunk & Drive Two wheeler,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to MVJ Hospital
+421,22/08/2015,14:10,others,1,7,fourlane,straight,junction,fine,Fault of Pedestrian across the Road,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Govt Hospital Hoskote
+422,22/08/2014,10:00,overspeed,3 & 4,2,fourlane,straight,junction,fine,Zen car Hit to I-20 Car vehicle over speed,0,0,1,3,Ambulance/Petrol Vehicle,Traffic clear and vehicle shit to Kolar Police station
+423,22/08/2014,10:00,overspeed,3 & 4,2,fourlane,straight,junction,fine,Car,0,0,2,2,Ambulance/Petrol Vehicle,"2-Minor, 2-Non Injured. Helping Ambulance Shift to SNR Hospital."
+424,22/07/2017,09:21,headoncollision,2,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to car,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+425,22/07/2017,08:10,headoncollision,3,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to car,0,0,4,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+426,22/07/2016,15:55,overspeed,2,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to Two wheeler,0,1,0,0,Ambulance,The injured person shifted to Private Hospital Hoskote
+427,22/06/2017,14:35,headoncollision,1 & 3,2 & 4,fourlane,slightcurve,junction,fine,Two wheeler over speed and hit to car,1,0,1,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+428,22/06/2016,14:30,skidding,3 & 4,2,fourlane,straight,junction,fine,Two wheeler over speed self accident,0,0,1,1,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+429,22/06/2016,14:30,skidding,2 & 3,1 & 2,fourlane,slightcurve,junction,fine,Two wheeler over speed self accident,0,1,2,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+430,22/06/2015,15:00,others,3,2,fourlane,straight,junction,fine,Bike,0,1,1,0,Ambulance,Bike rider hits car with over speed
+431,22/05/2018,08:30,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Bus over speed and hit to Car,0,1,0,0,Ambulance,The injured person shifted to Private Hospital Hoskote
+432,22/05/2015,22:45,others,2,1,fourlane,slightcurve,junction,fine,Drunk & Drive,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+433,22/04/2017,17:15,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Bus over speed and hit to two wheeler,0,1,0,0,Ambulance,The injured person shifted to Private Hospital Hoskote
+434,22/04/2017,19:15,skidding,2,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to road crossing pedestrian. Fault of Pedestrian.,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+435,22/04/2015,07:30,overspeed,3,2,fourlane,slightcurve,junction,fine,Car overturning the bus over speed,0,0,1,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+436,22/04/2015,07:30,overspeed,3,2,fourlane,slightcurve,junction,fine,Car overturning the bus over speed,0,0,1,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+437,22/03/2018,16:15,overspeed,1,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to road crossing pedestrian and Two wheeler,3,2,0,0,Ambulance,The fatal body & injured person shifted to Jalappa Hospital
+438,22/03/2017,05:55,skidding,3,2,fourlane,straight,junction,fine,Car hit to bike,0,0,3,0,Petrol Vehicle,Inform to Kolar rural Police station
+439,22/03/2016,03:05,skidding,2,2 & 5,fourlane,straight,junction,fine,Car over speed self accident,0,3,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+440,22/02/2017,04:35,skidding,3,9,fourlane,straight,junction,fine,Self accident LCV defect in mechanical condition,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+441,22/02/2017,20:10,overspeed,3,4,fourlane,straight,junction,fine,Self accident Two wheeler over speed,0,0,2,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+442,22/02/2015,15:15,overspeed,2 & 3 & 4,2 & 3,fourlane,straight,junction,fine,Bike raiding and Hit to the opposite Bike,0,2,1,1,Ambulance,The injured person shifted to Jalappa Hospital
+443,22/02/2015,05:00,headoncollision,1 & 2 & 4,2 & 3 & 5,fourlane,straight,junction,fine,Multiaxle over speed and hit to the Car,1,1,0,2,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+444,22/12/2017,16:15,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to car,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+445,22/11/2014,10:30,others,1,2 & 7,fourlane,straight,tjunction,fine,Vehicle over speed and hit to the road Pedestrian,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to SNR Hospital
+446,22/10/2016,04:30,collisionbrush,3,2 & 5,fourlane,slightcurve,junction,fine,LCV over speed and hit to Tractor,0,0,3,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+447,22/10/2015,13:00,headoncollision,3,2,fourlane,straight,tjunction,fine,Car over speed and hit to Two wheeler,0,0,1,0,Petrol Vehicle,The injured person shifted to Mulbagal Govt Hospital
+448,22/10/2015,15:00,headoncollision,4,2,fourlane,straight,junction,fine,Car over speed and hit to Two wheeler,0,0,0,1,Petrol Vehicle,The person shifted to Jalappa Hospital
+449,22/10/2014,13:30,overspeed,3,2,fourlane,straight,junction,fine,Over speed Car and Hit to Lorry,0,0,2,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+450,21/09/2014,02:35,overspeed,3,2 & 3,fourlane,straight,junction,fine,Car over speed,0,0,2,0,Ambulance/Petrol Vehicle,The injured persons shifted to MVJ Hospital
+451,21/08/2017,01:40,skidding,3,2 & 9,fourlane,straight,junction,fine,Car over speed self accident,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+452,21/08/2014,22:30,others,2,1,fourlane,straight,junction,fine,Bike,0,1,0,0,Ambulance/Petrol Vehicle,Injured person shifted Govt Hospital KR Puram
+453,21/07/2017,20:30,skidding,1,1,fourlane,straight,junction,fine,Two wheeler self accident Drunken & Drive,1,0,0,0,Ambulance,The fatal body shifted to Private Hospital Hoskote
+454,21/07/2016,12:30,headoncollision,2,2 & 3 & 5,fourlane,straight,junction,fine,Car over speed and hit to Two wheeler,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+455,21/07/2016,16:30,skidding,2,2 & 3,fourlane,straight,junction,fine,LCV over speed self accident,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+456,21/07/2015,11:15,headoncollision,2 & 3,2 & 5,fourlane,slightcurve,junction,fine,Car over speed and hit to the car,0,2,1,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+457,21/06/2016,19:40,overspeed,1,2 & 5,fourlane,straight,junction,fine,Road crossing pedestrian cross the road vehicle hit and run,2,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to MVJ Hospital
+458,21/06/2014,19:30,others,3 & 4,3,fourlane,straight,junction,fine,Bike Drunk & Drive,0,0,1,3,Ambulance/Petrol Vehicle,Helping Patrolling & Ambulance shifted to SNR hospital Kolar.
+459,21/05/2017,21:00,skidding,3,2 & 3,fourlane,straight,tjunction,fine,Car over speed self accident,0,0,2,0,Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+460,21/05/2016,16:30,skidding,3,2,fourlane,straight,junction,fine,Auto hit to the Two wheeler,0,0,1,0,Ambulance,The injured person shifted to MVJ Hospital
+461,21/05/2015,01:55,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Car over speed and Hit to the lorry,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+462,21/05/2014,09:50,others,1,7,fourlane,straight,junction,fine,Truck,1,0,0,0,Ambulance/Petrol Vehicle,Pedestrian crossing from unauthorised opening
+463,21/05/2014,09:50,headoncollision,1,7,fourlane,straight,junction,fine,Pedestrian,1,0,0,0,Ambulance/Petrol Vehicle,Pedestrian crossing from unauthorised opening
+464,21/04/2014,23:45,others,4,2,fourlane,straight,junction,fine,Over Speed of Car,0,0,0,0,Petrol Vehicle,Due to over speed of car lost control and collided with MS Guardrail car was damaged self accident
+465,21/03/2018,20:20,skidding,2,2 & 5,fourlane,straight,junction,fine,Unknown vehicle over speed and hit to two wheeler,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+466,21/03/2015,12:10,skidding,2 & 4,2 & 3 & 4,fourlane,straight,tjunction,fine,Bike over speed and hit to opposite bike,0,2,1,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+467,21/03/2015,23:00,overspeed,2 & 3,2 & 4,fourlane,straight,junction,fine,Fault of car vehicle over speed and hit to bike,0,1,3,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+468,21/03/2015,00:15,overspeed,1,2 & 5,fourlane,straight,junction,fine,Fault of Multi axle over speed and hit to bike,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+469,21/02/2018,18:10,headoncollision,2,2 & 4,fourlane,straight,junction,fine,car over speed and hit to two wheeler,0,1,0,0,Petrol Vehicle,The injured person shifted to MVJ Hospital
+470,21/02/2016,17:10,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to Two wheeler,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+471,21/12/2017,19:30,overspeed,2,2 & 9,fourlane,straight,junction,fine,Car over speed self accident,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Govt Hospital Hoskote
+472,21/12/2016,13:00,overspeed,1,7,fourlane,straight,junction,fine,Fault of road crossing pedestrian. Vehicle over speed and hit to pedestrian,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to MVJ Hospital
+473,21/10/2016,18:45,overspeed,1 & 3,2 & 3 & 9,fourlane,straight,junction,fine,LCV hit to Truck,2,0,1,0,Ambulance/Petrol Vehicle,The fatal body & injured person shifted to Jalappa Hospital
+474,21/10/2016,22:30,skidding,3,9,fourlane,straight,junction,fine,Car over speed self accident,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+475,21/01/2016,08:30,skidding,3,2 & 3,fourlane,straight,junction,fine,Car over speed vehicle out of control Self accident,0,0,1,0,Ambulance,The injured person shifted to SNR Hospital
+476,20/09/2017,00:45,headoncollision,3,2 & 5,fourlane,straight,junction,fine,Bus over speed and hit to two wheeler,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+477,20/07/2016,06:35,overspeed,1,2 & 5,fourlane,straight,junction,fine,Bus over speed and Hit to Road crossing Pedestrian,2,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to MVJ Hospital
+478,20/07/2015,16:30,headoncollision,2,2 & 3,fourlane,straight,junction,fine,Fault of Car over speed and hit to LCV,0,1,0,0,Petrol Vehicle,
+479,20/07/2015,22:15,overspeed,1 & 2,2 & 7,fourlane,sharpcurve,junction,fine,Car over speed and hit to run the Pedestrian,1,1,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to MVJ Hospital
+480,20/07/2015,00:05,skidding,3 & 4,2 & 3,fourlane,straight,junction,fine,LCV vehicle over speed out of controll,0,0,1,1,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+481,20/06/2016,12:40,skidding,1,1 & 2,fourlane,straight,junction,fine,Car over speed driver drunk and drive self accident,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to MVJ Hospital
+482,20/05/2018,06:00,overspeed,2,2 & 4,fourlane,straight,junction,cloudy,Two wheeler over speed and hit to two wheeler,0,3,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+483,20/04/2017,07:30,headoncollision,2,2,fourlane,straight,junction,fine,Car over speed hit to Car,0,1,0,0,Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+484,20/04/2016,09:10,headoncollision,3,2 & 4,fourlane,straight,junction,fine,Car over speed and hit to Two wheeler,0,0,1,0,Petrol Vehicle,The minor injured person shifted to Hospital
+485,20/04/2016,14:13,headoncollision,3,2 & 5,fourlane,straight,junction,fine,Bus over speed and hit to car,0,0,1,0,Ambulance/Petrol Vehicle,The injure person shifted to MVJ Hospital
+486,20/04/2014,21:45,others,3,2,fourlane,straight,junction,fine,Car,0,0,1,0,Ambulance/Petrol Vehicle,Due to over speed of car collided with tractor
+487,20/03/2018,09:30,headoncollision,2,2 & 5,fourlane,straight,junction,fine,car over speed and hit to two wheeler,0,1,0,0,Ambulance,The injured person shifted to Private Hospital Hoskote
+488,20/03/2017,06:45,rearendcollision,2,9,fourlane,straight,junction,fine,Two wheeler over speed Self accident,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Govt Hospital Hoskote
+489,20/03/2016,09:15,skidding,1,2 & 5,fourlane,straight,junction,fine,car over speed hit to road crossing Pedestrian,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to MVJ Hospital
+490,20/02/2015,01:00,overspeed,2 & 3,2 & 5,fourlane,straight,junction,fine,LCV HIt to Car over speed,0,1,2,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+491,20/12/2015,19:50,overspeed,1,2 & 5,fourlane,straight,junction,fine,Vehicle over speed and Hit to Road cross pedestrian,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to MVJ Hospital
+492,20/11/2016,09:00,rightturncollision,1 & 3,2 & 4,fourlane,straight,tjunction,fine,Two wheeler over speed and hit to Agriculture vehicle.,1,0,1,0,Ambulance/Petrol Vehicle,The fatal body & injured person shifted to Jalappa Hospital
+493,20/10/2015,19:15,rightturncollision,4,2 & 3,fourlane,straight,junction,fine,LCV self accident Over speed and Vehicle out of control,0,0,0,1,Petrol Vehicle,The Non Injured Person shifted to Jalappa Hospital
+494,20/10/2015,21:30,headoncollision,4,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and Hit to Two wheeler,0,0,0,1,Petrol Vehicle,The Non injured person shifted Jalappa Hospital
+495,20/01/2018,16:00,overspeed,2,7,fourlane,straight,junction,fine,Fault of Road crossing pedestrian,0,1,0,0,Ambulance,The injured person shifted to MVJ Hospital
+496,02/09/2015,05:30,headoncollision,2,2 & 4,fourlane,straight,junction,fine,Truck over speed and Hit to the Two wheeler,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+497,02/09/2015,17:45,others,2,1,fourlane,straight,junction,fine,Drunk & Drive,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+498,02/08/2015,22:55,overspeed,2 & 3,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to Two wheeler,0,1,1,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+499,02/08/2015,18:00,headoncollision,3,2 & 4,fourlane,straight,junction,fine,Bike over speed and Hit to LCV,0,0,2,0,Ambulance/Petrol Vehicle,The minor injured person shifted to Hospital
+500,02/08/2015,19:45,overspeed,3,2 & 4,fourlane,straight,tjunction,fine,Car over speed and hit to Two wheeler,0,0,1,0,Petrol Vehicle,The minor injured person shifted to Jalappa Hospital
+501,02/07/2017,12:10,overspeed,4,3,fourlane,straight,junction,fine,car over speed and hit to two wheeler,0,0,0,2,Petrol Vehicle,"There is no injured, traffic cleared immediately."
+502,02/07/2016,09:20,headoncollision,3,2,fourlane,straight,junction,fine,Car over speed and hit to road crossing Pedestrian,0,0,1,0,Ambulance,The injured person shifted to MVJ Hospital
+503,02/07/2016,01:45,overspeed,1,2,fourlane,straight,junction,fine,Truck over speed and hit to car,1,0,0,0,Ambulance,The fatal body shifted to Private Hospital Bhattarhalli
+504,02/07/2014,20:00,overspeed,3 & 4,3,fourlane,slightcurve,tjunction,fine,Car,0,0,1,3,Petrol Vehicle,Road conditions is good
+505,02/06/2017,14:45,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Jeep over speed and hit to two wheeler,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Bhattarhalli
+506,02/06/2015,17:01,others,3,2,fourlane,straight,junction,fine,Bike,0,0,2,1,Ambulance,New Bike lost control by over speed
+507,02/06/2015,23:35,others,3,2,fourlane,straight,junction,fine,Bike,0,0,1,3,Ambulance,Bike lost control by over speed
+508,02/05/2017,15:55,headoncollision,2,2,fourlane,straight,junction,fine,Two wheeler over speed Self accident,0,1,0,0,Petrol Vehicle,The injured person shifted to MVJ Hospital
+509,02/05/2015,06:30,others,1,2 & 3,fourlane,straight,junction,fine,Bike over speed fault of Motor vehicle,2,0,0,0,Ambulance,The fatal body shifted to Jalappa Hospital
+510,02/04/2018,04:00,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Truck over speed and hit to LCV. Driver sleep,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Bhattarhalli
+511,02/04/2017,15:00,skidding,1,2 & 5,fourlane,slightcurve,junction,fine,car over speed and hit to two wheeler,2,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+512,02/03/2017,00:11,overspeed,1,7,fourlane,straight,junction,fine,Vehicle over speed and hit to Road Pedestrian. Fault of Pedestrian,1,0,0,0,Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+513,02/02/2017,01:30,headoncollision,3,3 & 5,fourlane,slightcurve,junction,fine,Multi axle hit to LCV,0,0,1,0,Petrol Vehicle,The minor injured and Traffic clear immediately
+514,02/02/2016,13:45,skidding,3,2 & 3,fourlane,straight,junction,fine,Car over speed vehicle out of control Self accident,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+515,02/12/2015,00:30,skidding,3 & 4,2 & 3,fourlane,straight,junction,fine,Self accident Two wheeler,0,0,1,1,Petrol Vehicle,The injured person shited to Jalappa Hospital
+516,02/12/2014,11:50,overspeed,1,2 & 3,fourlane,straight,tjunction,fine,Two wheeler over speed and overturning to bus bike was skidding,3,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to MVJ Hospital
+517,02/01/2015,20:15,others,2 & 4,2 & 3,fourlane,straight,junction,fine,Car tyer blast vehicle out of control,0,1,0,2,Ambulance,The injured person shifted to Jalappa Hospital
+518,19/09/2017,14:35,headoncollision,1,2 & 5,fourlane,straight,junction,fine,car over speed and hit to two wheeler,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+519,19/09/2015,21:00,others,3,1,fourlane,straight,junction,fine,Drunk & Drive Two wheeler,0,0,1,0,Petrol Vehicle,The injured person shifted to SNR Hospital
+520,19/08/2017,15:20,skidding,2,2 & 3 & 5,fourlane,straight,junction,fine,Truck over speed and hit to Two wheeler,0,1,0,0,Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+521,19/08/2015,21:45,overspeed,1,2 & 3,fourlane,straight,junction,fine,Car hit to road crossing pedestrian,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to SNR Hospital
+522,19/08/2015,22:45,headoncollision,2,1 & 2,fourlane,straight,junction,fine,Multi axle hit to car,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+523,19/06/2015,14:30,others,3,2,fourlane,straight,junction,fine,Tata Ace,0,0,1,1,Ambulance,Tata Ace lost control by over speed (self accident)
+524,19/05/2017,10:30,overspeed,2,2 & 3,fourlane,straight,junction,fine,Car over speed and hit to car,0,1,0,0,Petrol Vehicle,The injured person shifted to Private Hospital Bhattarhalli
+525,19/05/2016,20:10,overspeed,3,2 & 5,fourlane,straight,junction,fine,LCV over speed and hit to LCV,0,0,3,0,Ambulance,The injured person shifted to Jalappa Hospital
+526,19/05/2016,23:00,headoncollision,3,2 & 9,fourlane,straight,junction,fine,Truck over speed and hit to Bus,0,0,2,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+527,19/05/2015,15:50,skidding,3 & 4,2 & 3,fourlane,straight,junction,fine,Multiaxle over speed and hit to the LCV,0,0,1,1,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+528,19/04/2018,09:00,rightturncollision,3,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to car,0,0,2,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+529,19/04/2018,09:00,rightturncollision,3,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to car,0,0,2,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+530,19/04/2017,00:10,skidding,4,2,fourlane,straight,tjunction,fine,Auto over speed self accident,0,0,0,1,Petrol Vehicle,Traffic cleared immediately.
+531,19/04/2017,11:10,overspeed,4,2 & 9,fourlane,slightcurve,junction,fine,Car over speed self accident. Defects in mechanical condition,0,0,0,2,Petrol Vehicle,There is no injured. Traffic cleared immediately.
+532,19/04/2014,22:30,others,3,1,fourlane,straight,junction,fine,Truck,0,0,0,2,Ambulance/Petrol Vehicle,Truck driver was drunken and collided with car
+533,19/03/2017,07:30,overspeed,1,2,fourlane,straight,junction,fine,Unknown vehicle hit and run while road crossing,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Private Hospital Hoskote
+534,19/03/2015,14:15,overspeed,1,2 & 7,fourlane,slightcurve,tjunction,fine,Fault of road crossing pedestrian,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to MVJ Hospital
+535,19/02/2015,21:10,others,1,1 & 2,fourlane,straight,junction,fine,Drunk & Drive,1,0,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+536,19/12/2016,12:50,overspeed,1 & 3,2 & 3 & 9,fourlane,straight,yjunction,fine,Car over speed self accident,1,0,2,0,Ambulance/Petrol Vehicle,The fatal body & injured person shifted to Jalappa Hospital
+537,19/12/2016,02:10,headoncollision,1,5 & 9,fourlane,straight,junction,fine,Car over speed and hit to Car due to defect in mechanical conditions.,2,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+538,19/12/2015,20:55,headoncollision,3,2 & 5,fourlane,straight,junction,fine,Car over speed and Hit to car,0,0,2,0,Petrol Vehicle,The injured person shifted to MVJ Hospital
+539,19/12/2014,17:30,others,2 & 3,9,fourlane,straight,junction,fine,The tractor vehicle some mechanical problem self accident,0,1,1,0,Ambulance/Petrol Vehicle,The injured person shifted to SNR Hospital
+540,19/12/2014,05:45,others,2 & 3,1 & 2,fourlane,straight,junction,fine,Self accident Drunk & Drive,0,1,1,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+541,19/11/2016,03:00,skidding,2 & 3 & 4,2 & 9,fourlane,straight,junction,fine,Car over speed self accident. Defects in mechanical condition,0,1,2,3,Ambulance/Petrol Vehicle,The Major & Minor injured person shifted to Jalappa Hospital Kolar
+542,19/11/2015,07:35,headoncollision,3,2,fourlane,straight,junction,fine,Bus over speed and Hit to Tow wheeler,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+543,19/11/2014,15:00,headoncollision,3,2 & 5,fourlane,slightcurve,junction,fine,Car over speed and hit to the Water tanker,0,0,1,0,Petrol Vehicle,"The injured person shifted to Govt Hospital, Kolar"
+544,19/10/2017,06:40,headoncollision,3,2,fourlane,straight,junction,fine,Multi Axle hit to Two wheeler.,0,0,1,0,Ambulance/Petrol Vehicle,The minor injured and Traffic clear immediately
+545,19/10/2014,14:00,others,3,1,fourlane,straight,junction,fine,Self Accident Drunk & Drive,0,0,1,0,Ambulance/Petrol Vehicle,The injured person shifted to KR Puram Govt. Hospital
+546,19/01/2018,15:25,headoncollision,2,2 & 5 & 9,fourlane,straight,tjunction,fine,Car over speed and hit to Truck due to Defects in Mechanical condition,0,0,1,0,Ambulance,The injured person shifted to Jalappa Hospital Kolar
+547,19/01/2016,22:40,skidding,3,2 & 3,fourlane,straight,junction,fine,Car over speed self accident,0,0,1,0,Ambulance,The injured person shifted to Jalappa Hospital
+548,19/01/2015,22:00,others,3,2 & 3,fourlane,straight,junction,fine,Auto tyre blast vehicle out of control and upside to carriageway,0,0,1,3,Petrol Vehicle,The injured person shifted to MVJ Hospital
+549,18/09/2017,13:05,headoncollision,3,2,fourlane,straight,junction,fine,Truck over speed and hit to Car,0,0,2,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+550,18/09/2016,16:15,headoncollision,1,1,fourlane,straight,junction,fine,Car over speed self accident Drunk & Drive,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+551,18/09/2014,16:45,skidding,2,4,fourlane,straight,junction,fine,Auto over speed and vehicle skidding in shoulder side driver fault,0,1,0,0,Ambulance,108 ambulance shifted to Govt Hospital Narsapura
+552,18/08/2014,19:30,overspeed,3 & 4,3,fourlane,straight,junction,fine,Car,0,0,2,3,Ambulance/Petrol Vehicle,"2-Minor, 3-Non injured. Helping Ambulance shifted to Jalappa Hospital."
+553,18/07/2016,19:45,skidding,1 & 3 & 4,2 & 3 & 5,fourlane,straight,junction,fine,LCV over speed self accident,1,0,1,2,Ambulance/Petrol Vehicle,The Fatal & Injured person shifted to Jalappa Hospital
+554,18/07/2014,17:15,others,1 & 2,1 & 2,fourlane,straight,junction,fine,Bike Drunk & Drive,2,1,0,0,Ambulance/Petrol Vehicle,Shifted to RL Jalappa Hospital Kolar
+555,18/06/2016,22:38,skidding,2,1 & 2,fourlane,straight,junction,cloudy,Two wheeler over speed self accident,0,1,0,0,Ambulance,The injured person shifted to MVJ Hospital
+556,18/06/2016,23:40,overspeed,1,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to Tractor,1,0,0,0,Ambulance,The fatal body shifted to MVJ Hospital
+557,18/04/2017,09:45,headoncollision,3,2 & 4,fourlane,straight,junction,fine,car over speed and hit to two wheeler,0,0,1,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+558,18/04/2017,22:30,headoncollision,2,2 & 5,fourlane,slightcurve,junction,fine,Car over speed hit to Truck,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+559,18/04/2014,17:20,others,2,1,fourlane,straight,junction,fine,Bike Rider,0,2,1,0,Ambulance/Petrol Vehicle,Triple riding on bike and the bike rider was drunken self accident
+560,18/03/2017,13:55,headoncollision,3,2,fourlane,straight,junction,fine,Car over speed and hit to car,0,0,3,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+561,18/03/2016,00:35,headoncollision,1 & 3,2 & 5,fourlane,straight,tjunction,fine,Bus driver driving wrong route and hit to Bus,1,0,13,0,Ambulance/Petrol Vehicle,The fatal body and injured person shifted to Jalappa Hospital
+562,18/03/2015,17:20,others,2 & 4,1,fourlane,straight,junction,fine,Drunk & Drive,0,1,0,2,Ambulance/Petrol Vehicle,The injured person shifted to SNR Hospital
+563,18/03/2015,23:30,others,2 & 4,2 & 3,fourlane,straight,junction,fine,The vehicle over speed and skidding,0,1,0,2,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+564,18/02/2016,12:20,headoncollision,3,2 & 5,fourlane,straight,tjunction,fine,Two wheeler over speed and vehicle out of control and hit to Truck,0,0,2,0,Ambulance,The injured person shifted to SNR Hospital
+565,18/02/2016,08:30,headoncollision,2,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to Car,0,1,0,0,Ambulance,The injured person shifted to MVJ Hospital
+566,18/02/2015,19:00,others,1,2 & 3,fourlane,straight,junction,fine,Vehicle over speed out of control,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+567,18/12/2016,01:15,others,1 & 3,2 & 3,fourlane,straight,junction,fine,Car over speed self accident. Defects in mechanical condition,1,0,2,0,Ambulance/Petrol Vehicle,The fatal body & injured person shifted to Jalappa Hospital
+568,18/12/2016,19:00,overspeed,1,2,fourlane,straight,junction,fine,Unknown vehicle hit to Road crossing pedestrian,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+569,18/12/2016,05:00,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Multi axle over speed and hit to Truck,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+570,18/12/2016,14:10,collisionbrush,2,2 & 9,fourlane,straight,junction,fine,Two wheeler over speed and hit to Auto,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital KR Puram
+571,18/12/2016,15:15,overspeed,2 & 3,1 & 2,fourlane,straight,junction,fine,Two wheeler over speed Drunk & Drive,0,3,1,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+572,18/12/2015,17:40,headoncollision,3,2 & 5,fourlane,straight,junction,fine,Car over speed and Hit to Two wheeler,0,0,2,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+573,18/11/2017,20:45,overspeed,2,2,fourlane,straight,junction,fine,Unknown vehicle hit to Road crossing pedestrian,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+574,18/11/2016,00:10,headoncollision,3,2 & 5,fourlane,straight,junction,fine,Multi Axle over speed and hit to Multi axle,0,0,2,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+575,18/11/2016,20:15,overspeed,3 & 4,2,fourlane,straight,tjunction,fine,Car over speed and hit to Agriculture vehicle.,0,0,2,1,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+576,18/10/2017,06:45,skidding,4,2,fourlane,slightcurve,junction,fine,Car over speed self accident,0,0,0,1,Petrol Vehicle,"There is no injured, traffic cleared immediately."
+577,18/01/2015,17:00,others,2,2 & 3,fourlane,slightcurve,junction,fine,Bike over speed and vehicle skidding,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+578,17/09/2017,05:00,skidding,2,1 & 2,fourlane,straight,junction,fine,Car self accident Drink & Drive and Negligence Driving,0,3,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Bhattarhalli
+579,17/09/2014,19:00,overspeed,1 & 2,2,fourlane,straight,junction,fine,Bike over speed Hit to TATA 407,1,1,0,0,Ambulance/Petrol Vehicle,The Fatal person and Injured person shifted to MVJ Hospital
+580,17/08/2016,05:30,overspeed,1,2,fourlane,straight,junction,fine,Car over speed and hit to road crossing Pedestrian,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Govt Hospital Hoskote
+581,17/07/2015,17:30,others,2 & 3,2 & 5,fourlane,straight,junction,fine,Car over speed fault of driver other vehicle,0,2,1,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+582,17/07/2015,00:30,overspeed,2,2 & 3,fourlane,straight,junction,fine,Car over speed and hit to Truck,0,1,1,0,Ambulance/Petrol Vehicle,The injured persons shifted to Jalappa Hospital
+583,17/05/2016,23:47,headoncollision,2,2,fourlane,straight,junction,fine,Truck over speed self accident,0,3,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital
+584,17/04/2018,16:15,overspeed,2,2 & 4,fourlane,straight,junction,fine,Truck over speed and hit to Car,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+585,17/04/2017,08:15,rightturncollision,3,2 & 5,fourlane,straight,junction,fine,Two wheeler over speed hit to two wheeler,0,0,1,0,Ambulance/Petrol Vehicle,The injured person shifted to Govt Hospital Avalahalli
+586,17/04/2017,23:30,skidding,2,2 & 9,fourlane,straight,junction,fine,Two wheeler over speed Self accident,0,1,0,0,Ambulance,The injured person shifted to KR Puram Private Hospital
+587,17/04/2016,14:30,skidding,2 & 3,2 & 3,fourlane,straight,junction,fine,LCV over speed Tyre blast self accident,0,2,3,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+588,17/04/2015,03:10,headoncollision,3 & 4,3 & 5,fourlane,straight,junction,fine,Truck over speed and Hit to the LCV,0,0,1,1,Ambulance,The injured person shifted to Jalappa Hospital
+589,17/02/2018,08:15,headoncollision,1,2 & 5,fourlane,straight,junction,fine,LCV over speed and hit to Two wheeler,1,0,0,0,Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+590,17/02/2016,13:40,rearendcollision,3,5,fourlane,straight,junction,fine,Car over speed hit to Two wheeler,0,0,1,0,Ambulance,The injured person shifted to Jalappa Hospital
+591,17/11/2016,12:40,overspeed,3 & 4,2 & 9,fourlane,slightcurve,junction,fine,Car over speed and hit to LCV,0,0,1,1,Petrol Vehicle,The injured person shifted to SNR Hospital Kolar
+592,17/11/2015,20:15,skidding,1,1,fourlane,straight,junction,fine,Car over speed and hit to Pedestrian cross on the road,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+593,17/11/2014,17:45,others,2,2 & 4,fourlane,straight,junction,fine,Fault of Motor vehicle over speed and Hit to BMTC Bus,0,1,0,0,Ambulance,The injured person shifted to KR Puram Govt. Hospital
+594,17/11/2014,16:30,others,2,3,fourlane,straight,junction,fine,BBMP Garbage vehicle overload and vehicle upset in the carriageway,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+595,17/10/2017,05:30,headoncollision,1 & 3,2 & 9,fourlane,straight,junction,fine,LCV over speed and hit to Two wheeler,1,0,2,0,Ambulance/Petrol Vehicle,The fatal body & injured person shifted to Jalappa Hospital
+596,17/10/2016,19:15,overspeed,2,7,fourlane,straight,junction,fine,Bus hit to road crossing pedestrian. Fault of Pedestrian,0,1,0,0,Ambulance,The injured person shifted to MVJ Hospital
+597,17/10/2015,14:30,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Car over speed and Hit to Road crossing Lorry,0,5,0,0,Ambulance/Petrol Vehicle,The injure person shifted to MVJ Hospital
+598,17/10/2014,09:17,skidding,2,3,fourlane,straight,junction,fine,car over speed vehicle out of control,0,1,0,0,Ambulance/Petrol Vehicle,The injured persons shifted to MVJ Hospital
+599,17/10/2014,22:30,overspeed,4,2,fourlane,straight,junction,fine,Truck,0,0,0,0,Petrol Vehicle,Traffic clear
+600,17/10/2014,10:30,overspeed,2 & 3 & 4,2,fourlane,slightcurve,junction,fine,Car over speed,0,2,2,1,Ambulance/Petrol Vehicle,The injured persons shifted to Jalapa Hospital
+601,17/01/2015,11:45,headoncollision,2 & 3,3 & 5,fourlane,straight,junction,fine,Car tyre blast vehicle out of control and hit to Two wheeler,0,1,1,0,Petrol Vehicle,The injured person shifted to MVJ Hospital
+602,16/09/2017,12:30,overspeed,1,2 & 5,fourlane,straight,junction,fine,Unknown vehicle hit to Road crossing pedestrian,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+603,16/09/2016,17:30,headoncollision,2,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed Self accident,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+604,16/09/2016,17:30,skidding,2,2 & 3,fourlane,straight,junction,fine,Two wheeler over speed self accident,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+605,16/09/2014,10:30,headoncollision,1 & 2,1,fourlane,straight,junction,fine,Bike over speed Drunken and Drive Hit to Tractor,1,1,0,0,Ambulance/Petrol Vehicle,The Fatal person and Injured person shifted to Govt Hospital Mulbagal
+606,16/08/2015,17:35,headoncollision,3 & 4,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to Two wheeler,0,0,1,1,Ambulance/Petrol Vehicle,The injured person shifted to SNR Hospital
+607,16/08/2014,10:35,others,3 & 4,3,fourlane,straight,junction,fine,Car,0,0,3,1,Ambulance/Petrol Vehicle,"3-Minor, 1- Non injured. Helping Ambulance shifted to Jalappa Hospital."
+608,16/07/2016,13:00,overspeed,3 & 4,9,fourlane,straight,junction,fine,LCV over speed and hit to LCV. Defects in mechanical condition,0,0,1,1,Ambulance,The injured person shifted to Jalappa Hospital
+609,16/06/2016,07:10,headoncollision,3,2 & 5,fourlane,sharpcurve,tjunction,fine,Two wheeler over speed and over take the bus. Bus hit to Two wheeler,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+610,16/06/2016,23:30,headoncollision,3,2 & 5,fourlane,straight,tjunction,fine,LCV over speed and hit to Truck,0,0,1,0,Petrol Vehicle,The injured person shifted to KR Puram Govt. Hospital
+611,16/06/2014,23:45,others,2 & 3 & 4,2,fourlane,straight,junction,fine,Car,0,1,1,3,Petrol Vehicle,Helping Patrolling & 108 shifted to Govt. Hospital Kolar
+612,16/05/2017,08:30,headoncollision,2,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to car,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+613,16/05/2015,10:45,others,2,2 & 3,fourlane,straight,junction,fine,Vehicle over speed and Out of Control,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+614,16/04/2017,14:00,skidding,3,4,fourlane,straight,junction,fine,Two wheeler over speed Self accident,0,0,2,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+615,16/04/2016,08:55,headoncollision,3,3 & 5,fourlane,straight,junction,fine,Car over speed vehicle out of control hit to Agricultural vehicle.,0,0,2,0,Ambulance,The injured person shifted to Jalappa Hospital
+616,16/04/2014,17:30,others,3,4,fourlane,straight,junction,fine,Bike,0,0,1,0,Ambulance/Petrol Vehicle,Due break failure bike ramed into median self accident
+617,16/03/2016,05:00,overspeed,3,2 & 3,fourlane,straight,forearmjunction,fine,Multi axle over speed self accident,0,0,1,0,Ambulance,The injured person shifted to Jalappa Hospital
+618,16/02/2018,07:15,headoncollision,1,2,fourlane,straight,junction,fine,Multi Axle hit to Two wheeler.,1,0,0,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+619,16/02/2018,07:15,overspeed,1,4,fourlane,slightcurve,junction,fine,Fault of road crossing pedestrian. Vehicle over speed and hit to pedestrian,1,0,0,0,Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+620,16/12/2016,04:00,headoncollision,3,2 & 5,fourlane,straight,junction,fine,Truck over speed and hit to Car,0,0,2,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+621,16/12/2016,16:30,others,1,2,fourlane,straight,junction,fine,Two wheeler over speed Self accident,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Govt Hoskote
+622,16/12/2015,16:30,skidding,3,2 & 3,fourlane,straight,junction,fine,Car overspeed and skidding fault of driver self accident,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+623,16/11/2017,07:00,headoncollision,3,2 & 5,fourlane,straight,junction,fine,Truck over speed and hit to LCV,0,0,1,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+624,16/11/2016,00:10,skidding,1 & 3,2 & 5,fourlane,straight,junction,fine,Multi Axle hit to Two wheeler.,1,0,1,0,Ambulance/Petrol Vehicle,The fatal body & injured person shifted to Jalappa Hospital
+625,16/11/2014,00:05,overspeed,3 & 4,2 & 5,fourlane,straight,tjunction,fine,Vehicle over speed and hit to the road crossing vehicle,0,0,1,5,Petrol Vehicle,Helping of Patrol vehicle
+626,16/10/2017,02:10,headoncollision,2 & 3,2,fourlane,straight,junction,fine,Truck over speed and hit to Car,0,1,4,0,Petrol Vehicle,The injured person shifted to MVJ Hospital
+627,16/10/2016,15:00,headoncollision,1 & 3,2 & 5,fourlane,slightcurve,junction,fine,Truck over speed and hit to Tractor,1,0,1,0,Ambulance/Petrol Vehicle,The fatal body & injured person shifted to Jalappa Hospital
+628,16/01/2017,16:05,overspeed,3 & 4,2 & 5,fourlane,straight,junction,fine,car over speed and hit to two wheeler,0,0,2,1,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+629,16/01/2016,23:30,collisionbrush,3,2 & 5,fourlane,straight,junction,fine,Truck lost control and hit to the car. Negligent driving of car driver.,0,0,2,0,Ambulance,The injured person shifted to MVJ Hospital
+630,16/01/2016,23:15,skidding,2,1 & 2,fourlane,straight,junction,fine,Self accidents Drunk & Drive,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+631,15/09/2016,21:45,headoncollision,3,2,fourlane,straight,junction,fine,Two wheeler over speed defects in mechanical condition,0,0,1,0,Ambulance,The Injured person shifted to Jalappa Hospital
+632,15/09/2015,05:00,overspeed,3,1 & 3,fourlane,straight,junction,fine,Drunk & Drive,0,0,3,0,Ambulance,The injured person shifted to SNR Hospital
+633,15/08/2016,15:45,overspeed,3,3 & 9,fourlane,straight,junction,fine,Car fault of mechanical condition vehicle out of control,0,0,4,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+634,15/08/2016,15:30,rearendcollision,1 & 3,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to LCV,1,0,1,0,Ambulance/Petrol Vehicle,The Fatal & Injured person shifted to Jalappa Hospital
+635,15/08/2016,00:40,headoncollision,1,2 & 5,fourlane,straight,junction,fine,Bus over speed and Hit to Tow wheeler,2,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to MVJ Hospital
+636,15/07/2014,13:30,others,3,2,fourlane,slightcurve,tjunction,fine,Bike,0,0,1,0,Ambulance/Petrol Vehicle,Shifted to SNR Hospital Kolar
+637,15/06/2015,20:35,others,3,2,fourlane,straight,junction,fine,Tata Ace,0,0,1,0,Ambulance,Tata Ace lost control by over speed and shifted to RLJ hospital
+638,15/06/2015,01:00,others,3,2,fourlane,straight,junction,fine,Car,0,0,1,0,Ambulance,Car lost control by over speed (self accident)
+639,15/06/2014,14:00,overspeed,2 & 3 & 4,3,fourlane,straight,junction,fine,Innova Car,0,2,1,4,Ambulance/Petrol Vehicle,Helping Patrolling & Ambulance shifted to Jalapa hospital.
+640,15/05/2017,11:35,headoncollision,1,2 & 5,fourlane,sharpcurve,junction,fine,Unknown vehicle over speed and hit to two wheeler,2,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+641,15/05/2016,01:45,headoncollision,1,2 & 5,fourlane,straight,junction,fine,LCV over speed and hit to car,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Govt. Hospital
+642,15/03/2017,15:50,overspeed,1,2 & 9,fourlane,straight,junction,fine,Self accident Car,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+643,15/02/2018,16:20,overspeed,2,2 & 5,fourlane,straight,junction,fine,LCV over speed and hit to Two wheeler,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+644,15/02/2015,19:10,overspeed,3,2 & 5,fourlane,straight,junction,fine,Car over speed and Hit to the Motor vehicle,0,0,2,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+645,15/12/2017,09:30,headoncollision,2,2 & 9,fourlane,straight,junction,fine,Two wheeler over speed Self accident,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+646,15/12/2016,19:05,rearendcollision,2,2 & 5,fourlane,slightcurve,junction,fine,Two wheeler over speed and hit to two wheeler,0,1,0,0,Petrol Vehicle,The injured person shifted to MVJ Hospital
+647,15/12/2015,11:15,skidding,1,2 & 5,fourlane,straight,junction,fine,Bus over speed and Hit to Road crossing Pedestrian,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to MVJ Hospital
+648,15/12/2014,12:30,overspeed,2 & 3 & 4,2 & 5,fourlane,straight,junction,fine,KSRTC bus hit to the Tata Ace due to over speed and over turning,0,1,3,20,Ambulance/Petrol Vehicle,The injured person shifted to SNR Hospital
+649,15/11/2014,16:30,others,3 & 4,2 & 3,fourlane,slightcurve,junction,fine,Vehicle over speed and Out of Control,0,0,4,1,Ambulance,"The injured person shifted to Govt Hospital, Kolar"
+650,15/11/2014,22:30,others,2,7,fourlane,straight,junction,fine,Fault of Pedestrian for Road Cross,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+651,15/01/2018,07:15,skidding,3,2 & 3,fourlane,straight,junction,fine,Car over speed self accident,0,0,2,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+652,15/01/2018,23:45,overspeed,1,7,fourlane,straight,junction,fine,Fault of Road crossing pedestrian,1,0,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+653,14/09/2016,10:45,skidding,2,2,fourlane,straight,junction,fine,Two wheeler over speed self accident,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Satya sai Hospital
+654,14/09/2016,10:45,skidding,2,2 & 3 & 4,fourlane,straight,junction,fine,car over speed and hit to two wheeler,0,1,0,0,Ambulance,The injured person shifted to Private Hospital KR Puram
+655,14/09/2015,23:00,skidding,1,2,fourlane,straight,junction,fine,Self accident vehicle over speed,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Govt Hospital Hoskote
+656,14/09/2015,10:35,skidding,3,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to Two wheeler,0,0,1,0,Ambulance,The injured person shifted to Jalappa Hospital
+657,14/08/2016,05:45,headoncollision,1 & 2,2 & 5,fourlane,straight,junction,fine,Truck over speed and hit to car,1,3,0,0,Ambulance/Petrol Vehicle,The Fatal & Injured person shifted to Private Hospital KR Puram
+658,14/08/2016,01:40,overspeed,3,2 & 3 & 9,fourlane,straight,junction,fine,Truck over speed and hit to Bus,0,0,20,0,Ambulance/Petrol Vehicle,The minor injured person shifted to Hospital
+659,14/08/2016,14:00,collisionbrush,3,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to Car,0,0,1,0,Petrol Vehicle,-
+660,14/08/2014,07:35,others,4,2,fourlane,straight,junction,fine,TATA Indica,0,0,0,4,Ambulance/Petrol Vehicle,Non injured
+661,14/07/2017,15:20,headoncollision,2,2,fourlane,straight,junction,fine,Two wheeler over speed and hit to Auto,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+662,14/07/2016,05:30,overspeed,2,2,fourlane,straight,junction,fine,Car over speed and hit to road crossing Pedestrian,0,1,0,0,Ambulance,The injured person shifted to MVJ Hospital
+663,14/07/2015,09:00,skidding,4,2 & 3,fourlane,slightcurve,junction,fine,Bike over speed fault of Motor vehicle,0,0,0,1,Petrol Vehicle,-
+664,14/07/2015,22:45,others,2,1 & 3,fourlane,slightcurve,junction,fine,Drunk & Drive,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+665,14/07/2015,21:45,overspeed,1,2 & 4,fourlane,straight,junction,fine,Fault of car vehicle over speed and hit to bike,1,0,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+666,14/06/2017,05:30,headoncollision,2,2 & 5,fourlane,straight,junction,fine,car over speed and hit to two wheeler,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+667,14/06/2015,14:30,others,3,-,fourlane,straight,junction,fine,Car,0,1,2,0,Ambulance,Car hits bike by over speeding
+668,14/06/2015,18:30,others,3,2,fourlane,straight,junction,fine,Bike,1,0,1,0,Ambulance,Bike lost control by over speed (self accident) and shifted to SNR hospital
+669,14/05/2018,06:10,overspeed,1,5,fourlane,straight,forearmjunction,fine,Unknown vehicle hit to Road crossing pedestrian,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Govt Hoskote
+670,14/05/2018,05:15,overspeed,1,2 & 5,fourlane,straight,junction,fine,Unknown vehicle over speed and hit to two wheeler,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+671,14/05/2017,14:00,headoncollision,3,2 & 5,fourlane,straight,junction,fine,car over speed and hit to two wheeler,0,0,1,0,Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+672,14/05/2015,09:35,headoncollision,2 & 4,1 & 5,fourlane,straight,junction,fine,Drunk & Drive vehicle out of control and Hit to the Bike,0,1,0,4,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+673,14/05/2015,11:55,headoncollision,1 & 2,2 & 3,fourlane,straight,junction,fine,Sumo over speed and hit to the Multi Axle in Maincarriageway,4,3,0,0,Ambulance/Petrol Vehicle,The Fatal & Injured person shifted to MVJ Hospital
+674,14/04/2018,03:00,skidding,1,7,fourlane,straight,junction,fine,Unknown vehicle hit to Road crossing pedestrian. Fault of pedestrian.,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+675,14/04/2016,00:45,skidding,2,2,fourlane,straight,junction,fine,LCV over speed hit to car,1,0,0,0,Petrol Vehicle,The injured person shifted to MVJ Hospital
+676,14/04/2016,04:30,headoncollision,3,2 & 5,fourlane,straight,junction,fine,Truck hit to car. Fault of car,0,0,2,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+677,14/04/2016,03:00,overspeed,3,3,fourlane,straight,junction,fine,LCV Tyre blast vehicle out of control,0,0,1,0,Ambulance,The injured person shifted to Jalappa Hospital
+678,14/03/2018,14:45,overspeed,2,9,fourlane,straight,junction,fine,Car over speed self accident,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+679,14/03/2017,11:30,headoncollision,2,2 & 4,fourlane,straight,junction,fine,Fault of Two wheeler over speed to crossing road car was hit to two wheeler.,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+680,14/03/2015,22:15,others,1,3 & 4,fourlane,straight,junction,fine,Over speed vehicle out of control and hit to the loory,2,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to MVJ Hospital
+681,14/02/2017,15:45,headoncollision,1 & 3,2 & 9,fourlane,straight,junction,fine,Car over speed and hit to LCV,1,0,4,0,Ambulance/Petrol Vehicle,The fatal body & injured person shifted to Jalappa Hospital
+682,14/02/2017,16:50,collisionbrush,1 & 3,2 & 5,fourlane,straight,staggeredjunction,fine,Car over speed and hit to LCV,1,0,3,0,Ambulance/Petrol Vehicle,The fatal body & injured person shifted to Jalappa Hospital
+683,14/02/2017,21:35,overspeed,1,2,fourlane,straight,junction,fine,Fault of Road crossing pedestrian,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+684,14/02/2016,01:30,headoncollision,2,2 & 3 & 5,fourlane,straight,junction,fine,Car over speed hit to car,0,2,0,0,Ambulance,The injured person shifted to Jalappa Hospital
+685,14/02/2015,22:00,others,2 & 3,2 & 4,fourlane,straight,junction,fine,Fault of Motor vehicel over speeding,0,2,1,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+686,14/12/2017,13:30,overspeed,2,2 & 5,fourlane,straight,junction,fine,Two wheeler over speed Self accident,0,1,0,0,Ambulance,The injured person shifted to Bangalore Hospital
+687,14/12/2015,21:05,headoncollision,1,2 & 4,fourlane,straight,junction,fine,Two wheeler speed and Hit to Crane,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to MVJ Hospital
+688,14/11/2016,15:20,overspeed,3 & 4,9,fourlane,slightcurve,junction,fine,Car over speed and hit to Agriculture vehicle.,0,0,1,1,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+689,14/01/2017,20:10,skidding,3,7,fourlane,straight,tjunction,fine,Fault of road crossing pedestrian.,0,0,1,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+690,14/01/2016,18:45,headoncollision,3,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to car,0,0,2,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+691,13/08/2016,19:50,skidding,3,1 & 4,fourlane,straight,junction,fine,Two wheeler self accident Drunk & Drive,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+692,13/08/2015,23:00,overspeed,1 & 3,2 & 3 & 5,fourlane,straight,junction,fine,Car over speed and hit to car,1,0,2,0,Ambulance/Petrol Vehicle,the fatal body and injured person shifted to SNR Hospital
+693,13/08/2014,08:35,others,3 & 4,2,fourlane,slightcurve,junction,fine,TATA ACE,0,0,1,2,Ambulance/Petrol Vehicle,"Tata Ace Over speed. 1-Minor, 2- non injured. Shifted to Ambulance Jalappa Hospital Kolar."
+694,13/08/2014,16:35,overspeed,2 & 3,2 & 3,fourlane,straight,junction,fine,Car,0,1,2,0,Ambulance/Petrol Vehicle,"1-Minor, 2-Non injured. Helping Ambulance shifted to Jalappa Hospital."
+695,13/07/2016,05:45,headoncollision,2,2,fourlane,straight,junction,fine,Car over speed and hit to car.,0,4,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital
+696,13/06/2016,18:00,headoncollision,2,2 & 3 & 5,fourlane,straight,junction,fine,Car over speed and hit to over turning car,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+697,13/05/2018,01:00,headoncollision,1,2 & 3,fourlane,straight,junction,cloudy,Van over speed self accident,1,0,0,0,Ambulance,The fatal body shifted to Govt. Hospital Hoskote
+698,13/05/2017,23:30,skidding,3,2,fourlane,straight,junction,fine,Two wheeler over speed Self accident,0,0,1,0,Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+699,13/05/2014,10:45,,1,3,fourlane,straight,junction,fine,Car lost control,2,0,0,0,Ambulance/Petrol Vehicle,Car Driver lost control and hit anoher car
+700,13/05/2014,10:45,others,1,2,fourlane,straight,junction,fine,Car,2,0,0,0,Ambulance/Petrol Vehicle,Due to over speed car collided with another car
+701,13/04/2017,19:45,skidding,2,4,fourlane,straight,junction,fine,Two wheeler over speed Self accident,0,0,1,0,Petrol Vehicle,The injured person shifted to Govt Hospital Avalahalli
+702,13/04/2017,16:45,skidding,2,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to two wheeler,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+703,13/04/2015,17:35,others,3 & 4,1,fourlane,straight,junction,fine,Drunk & Drive,0,0,1,3,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+704,13/02/2018,23:20,headoncollision,2,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to LCV,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+705,13/02/2016,23:54,overspeed,2,2 & 3 & 5,fourlane,straight,junction,fine,Car over speed and hit to car,0,3,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+706,13/12/2016,14:30,overspeed,4,9,fourlane,straight,junction,fine,Multi axle hit to Truck,0,0,0,2,Petrol Vehicle,Non-injured traffic clear
+707,13/12/2016,21:00,others,3,2 & 3,fourlane,straight,junction,fine,Car self accident due to Over speed,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+708,13/11/2015,12:05,headoncollision,3,2 & 4,fourlane,straight,junction,cloudy,Car hit to Two wheeler due to bike over speed turning the car,0,0,1,0,Ambulance,The injured person shifted to SNR Hospital
+709,13/11/2014,13:25,skidding,3,3,fourlane,straight,junction,heavyrain,Self,0,0,1,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+710,13/11/2014,18:25,others,2,7,fourlane,straight,junction,fine,Fault of Pedestrian road crossing the vehicle hit to the pedestrian,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+711,13/11/2014,14:30,others,2 & 3,3,fourlane,straight,junction,fine,Tyre blast vehicle out of control,0,2,1,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+712,13/10/2017,00:30,skidding,1,1,fourlane,straight,junction,fine,Two wheeler over speed Self accident Drunk & Drive,1,0,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Govt Hospital Avalahalli
+713,13/10/2016,22:45,rearendcollision,2,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to car in MCW,0,1,0,0,Petrol Vehicle,The injured person shifted to KR Puram Private Hospital
+714,13/10/2014,15:45,overspeed,3,2,fourlane,slightcurve,junction,fine,Car over speed,0,0,1,0,Ambulance/Petrol Vehicle,The injured persons shifted to MVJ Hospital
+715,13/01/2017,16:00,skidding,3,2 & 4,fourlane,straight,tjunction,fine,Two wheeler over speed and hit to LCV,0,0,1,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+716,13/01/2017,15:00,overspeed,1,2 & 5,fourlane,straight,junction,fine,car over speed and hit to two wheeler,3,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Govt Hoskote
+717,13/01/2017,06:55,overspeed,3 & 4,2,fourlane,straight,junction,fine,Bus over speed and hit to Car,0,0,1,1,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+718,12/09/2015,15:30,overspeed,2,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to LCV,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+719,12/07/2017,22:15,headoncollision,2,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to two wheeler,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Bhattarhalli
+720,12/07/2016,23:30,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Multi axle over speed and hit to Two wheeler,0,1,0,0,Ambulance,The injured person shifted to Private Hospital
+721,12/07/2016,17:45,rearendcollision,3 & 4,2 & 5,fourlane,slightcurve,junction,fine,Bus over speed and Hit to Tow wheeler,0,0,1,1,Ambulance/Petrol Vehicle,The injured person shifted to SNR Hospital
+722,12/07/2014,14:30,overspeed,2 & 3,2,fourlane,straight,junction,fine,Bike,0,1,1,0,Ambulance/Petrol Vehicle,shifted to Hospital MVJ Hoskote
+723,12/06/2016,20:10,skidding,3,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed self accident,0,0,1,0,Ambulance,The injured person shifted to MVJ Hospital
+724,12/06/2014,14:30,others,2,2,fourlane,slightcurve,junction,fine,Bike,0,1,1,0,Ambulance/Petrol Vehicle,Self accident Drunk & Drive
+725,12/05/2016,11:40,headoncollision,2,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to Car,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+726,12/05/2015,09:45,headoncollision,2,2 & 3 & 5,fourlane,straight,junction,fine,Bike over speed fault of Motor vehicle,0,3,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+727,12/04/2018,09:00,skidding,2,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to two wheeler. Negligence Driving.,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+728,12/03/2017,17:15,skidding,3,4,fourlane,straight,junction,fine,Self accident Two wheeler over speed,0,0,1,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+729,12/02/2018,12:10,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to car,0,1,0,0,Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+730,12/02/2017,09:45,overspeed,2,2,fourlane,straight,junction,fine,Car over speed hit to Hydra,0,3,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Bhattarhalli
+731,12/02/2017,11:30,headoncollision,2,3 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to car,0,0,1,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+732,12/02/2016,21:45,headoncollision,1 & 2,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to Truck,1,1,0,0,Ambulance/Petrol Vehicle,The fatal body and injured person shifted to MVJ Hospital
+733,12/12/2016,13:30,overspeed,4,2,fourlane,straight,junction,fine,Truck over speed and hit to LCV,0,0,0,2,Petrol Vehicle,Non injured traffic clear
+734,12/11/2017,12:30,skidding,2,2,fourlane,straight,junction,fine,Car over speed self accident,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+735,12/11/2016,10:15,skidding,3,2 & 5,fourlane,straight,junction,fine,car over speed and hit to two wheeler,0,0,2,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+736,12/10/2014,18:00,overspeed,2 & 3,2 & 3,fourlane,slightcurve,junction,fine,Car over speed,0,1,1,0,Ambulance/Petrol Vehicle,The injured persons shifted to SNR Hospital
+737,12/01/2018,17:15,headoncollision,2,2 & 5,fourlane,straight,junction,fine,LCV over speed and hit to Car,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+738,12/01/2016,07:58,rearendcollision,3,5 & 9,fourlane,straight,junction,fine,Mini truck crushed with school bus. Negligent driving of Mini truck driver,0,0,4,0,Ambulance,The injured person shifted to MVJ Hospital
+739,12/01/2015,22:00,others,2 & 4,1,fourlane,straight,junction,fine,Drunk & Drive,0,1,0,3,Ambulance/Petrol Vehicle,The injured person shifted to SNR Hospital
+740,11/07/2016,10:25,skidding,3,2 & 3,fourlane,straight,junction,fine,Two wheeler over speed self accident,0,0,1,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+741,11/06/2017,22:30,overspeed,1 & 3,2 & 9,fourlane,straight,junction,fine,Car over speed self accident. Defects in mechanical condition,1,0,1,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+742,11/06/2017,16:50,skidding,2,4,fourlane,straight,junction,fine,Two wheeler over speed Self accident,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Bhattarhalli
+743,11/06/2017,12:50,overspeed,2,7,fourlane,straight,junction,fine,Fault of Road crossing pedestrian,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Bhattarhalli
+744,11/06/2015,21:15,others,3,7,fourlane,straight,junction,fine,No Vehicle,0,0,1,0,Ambulance,
+745,11/04/2017,14:10,overspeed,3,2,fourlane,straight,junction,fine,Car over speed self accident. Defects in mechanical condition,0,0,3,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+746,11/04/2015,13:05,overspeed,2 & 3 & 4,2 & 3,fourlane,straight,junction,fine,Bike over speed fault of Motor vehicle,0,1,1,2,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+747,11/03/2018,13:00,overspeed,2,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed Self accident,0,1,0,0,Ambulance,The injured person shifted to Private Hospital Hoskote
+748,11/02/2015,06:00,overspeed,1,2 & 5,fourlane,straight,tjunction,fine,Bus over speed and Hit to Tractor,1,0,0,0,Petrol Vehicle,The injured person shifted to SNR Hospital
+749,11/12/2016,12:55,headoncollision,2,2 & 5,fourlane,straight,junction,fine,car over speed and hit to two wheeler,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+750,11/12/2014,13:15,overspeed,1 & 2,2 & 3,fourlane,straight,junction,fine,Bike over speed fault of Motor vehicle,1,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+751,11/11/2017,20:30,overspeed,1 & 4,2,fourlane,straight,junction,fine,Two wheeler over speed and hit to two wheeler,1,0,0,1,Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+752,11/11/2016,23:10,headoncollision,2 & 3,9,fourlane,straight,junction,fine,Car over speed and hit to Car. Defects in mechanical condition,0,1,1,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+753,11/10/2016,23:45,overspeed,1,2 & 5,fourlane,straight,junction,fine,Bus over speed and hit to two wheeler,1,0,0,0,Ambulance,The fatal body shifted to MVJ Hospital
+754,11/10/2015,11:30,overspeed,2 & 4,1 & 2,fourlane,straight,junction,fine,Car over speed self accident Drunk & Drive,0,1,0,3,Ambulance/Petrol Vehicle,The Injured Person shifted to Jalappa Hospital
+755,11/10/2014,08:16,overspeed,3,2,fourlane,straight,junction,fine,Lorry,0,0,2,0,Ambulance/Petrol Vehicle,The injured persons shifted to MVJ Hospital
+756,11/01/2017,15:50,headoncollision,2,2,fourlane,straight,junction,fine,Two wheeler over speed and hit to LCV,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+757,11/01/2017,01:05,skidding,2,2 & 9,fourlane,straight,junction,fine,Three wheeler over speed self accident,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Private Hospital Hoskote
+758,10/09/2016,01:15,skidding,1,9,fourlane,straight,junction,fine,Two wheeler over speed defects in mechanical condition,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+759,10/09/2014,12:10,others,2 & 3,3,fourlane,slightcurve,junction,fine,Car over speed Puncher out of Control,0,3,1,0,Ambulance,108 ambulance shifted to Jalapa Hospital
+760,10/08/2016,08:00,headoncollision,3,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed self accident,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+761,10/08/2014,21:30,others,1 & 2,2,fourlane,slightcurve,tjunction,fine,Car,1,1,0,2,Ambulance/Petrol Vehicle,"Car over speed vehicle upset on Carriageway. 1-Fatal, 1-Serious, 2-Non injured. Helping ambulance shifted to SNR Hospital."
+762,10/07/2016,13:55,overspeed,1,7,fourlane,straight,junction,fine,Truck over speed and hit to road crossing pedestrian. Fault of road crossing pedestrian,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Govt Hospital Hoskote
+763,10/07/2015,16:35,others,3,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to Bike. Fault of driver of Motor vehicle,0,0,2,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+764,10/06/2014,13:45,others,2 & 3,2,fourlane,straight,tjunction,fine,Bike,0,1,1,0,Ambulance/Petrol Vehicle,Helping Patrolling & Ambulance Shifted to SNR Hospital
+765,10/05/2017,15:30,rightturncollision,2,2 & 5,fourlane,straight,junction,fine,Van over speed and hit to Two wheeler,0,1,0,0,Ambulance,The injured person shifted to Private Hospital Bhattarhalli
+766,10/05/2016,16:15,headoncollision,3,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to Truck,0,0,3,0,Ambulance,The injured person shifted to Jalappa Hospital
+767,10/05/2014,08:10,others,2,2,fourlane,straight,junction,fine,Car,0,1,0,0,Ambulance/Petrol Vehicle,Pedestrian crossing from unauthorised opening car rammed
+768,10/04/2018,23:45,headoncollision,3,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to LCV,0,0,3,0,Ambulance,The injured person shifted to Private Hospital Hoskote
+769,10/04/2016,16:00,headoncollision,1,2 & 3,fourlane,straight,junction,fine,Car over speed Driver sleeping vehicle skidding,5,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+770,10/04/2014,08:10,others,2,5,fourlane,straight,junction,fine,Car,0,1,0,0,Ambulance/Petrol Vehicle,While crossing road car got upside down self accident
+771,10/03/2016,18:40,headoncollision,3,2 & 5,fourlane,straight,junction,fine,Car over speed and hit to Auto,0,0,1,0,Petrol Vehicle,The injured person shifted to SNR Hospital
+772,10/02/2018,11:00,overspeed,3,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed Self accident,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+773,10/02/2016,22:00,headoncollision,3,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed hit to bus,0,0,1,0,Petrol Vehicle,The injured person shifted to MVJ Hospital
+774,10/12/2015,05:35,overspeed,3,2 & 3,fourlane,straight,junction,fine,Car over speed self accident,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital
+775,10/11/2016,14:30,skidding,2 & 3 & 4,2,fourlane,slightcurve,junction,fine,Car over speed vehicle out of control self accident,0,1,1,1,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+776,10/11/2015,20:05,skidding,4,2,fourlane,straight,junction,lightrain,Two wheeler over speed and skidding due to Rain,0,0,0,1,Petrol Vehicle,There is no injured that person
+777,10/10/2015,00:45,skidding,2,1,fourlane,straight,junction,fine,Self accident Drunk & Drive,0,1,0,0,Petrol Vehicle,The fatal body shifted to MVJ Hospital
+778,10/01/2015,10:30,overspeed,2 & 4,2 & 4,fourlane,slightcurve,staggeredjunction,fine,Over speed of Two wheeler rider,0,1,0,2,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+779,01/09/2015,21:30,skidding,2,4,fourlane,straight,junction,fine,Self accident vehicle over speed,0,1,0,0,Ambulance,The injured person shifted to MVJ Hospital
+780,01/09/2014,09:30,others,2 & 3,2 & 3,fourlane,straight,junction,fine,Bike over speed and Vehicle out of control,0,1,1,0,Ambulance/Petrol Vehicle,The injured persons shifted to Jalapa Hospital
+781,01/09/2014,21:30,others,1,7,fourlane,straight,junction,fine,illegal Median opening Pedestrain cross to road vehicle hit to the person,1,0,0,0,Ambulance,The Fatal person shifted to Jalapa Hospital
+782,01/08/2016,14:45,skidding,3,2 & 4,fourlane,slightcurve,junction,fine,Two wheeler over speed and hit to Road crossing pedestrian,0,0,1,0,Petrol Vehicle,The injured person shifted to SNR Hospital
+783,01/08/2016,22:35,headoncollision,1 & 3,2 & 5 & 9,fourlane,straight,junction,fine,Multi axle over speed and hit to LCV,1,0,1,0,Ambulance/Petrol Vehicle,The fatal and injured person shifted to SNR Hospital
+784,01/08/2016,00:30,overspeed,1,2 & 5,fourlane,straight,junction,fine,Truck over speed and hit to car. Fault of driver Truck,1,0,0,0,Ambulance,The fatal body shifted to MVJ Hospital
+785,01/07/2017,13:45,skidding,1 & 2,2 & 9,fourlane,straight,junction,fine,Car over speed self accident,1,3,0,0,Ambulance/Petrol Vehicle,The fatal body & injured persons shifted to Private Hospital Hoskote
+786,01/07/2014,05:30,others,2,2,fourlane,straight,tjunction,fine,Car,0,2,0,0,Ambulance/Petrol Vehicle,Shifted to Hospital KR Puram
+787,01/07/2014,10:00,overspeed,3,2,fourlane,straight,junction,fine,Car Hit to Car,0,0,3,0,Ambulance/Petrol Vehicle,shifted to Hospital MVJ Hoskote
+788,01/06/2016,20:43,skidding,2,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed and hit to another Two wheeler,0,1,0,0,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+789,01/05/2015,12:30,skidding,1,2 & 3,fourlane,straight,junction,fine,Vehicle over speed and Out of Control,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to MVJ Hospital
+790,01/05/2015,04:30,others,2,5,fourlane,slightcurve,junction,fine,Vehicle out of control skidding in the main carriageway,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+791,01/04/2018,17:10,skidding,3,2 & 3,fourlane,straight,junction,fine,Car over speed self accident,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+792,01/04/2017,20:20,skidding,3,2,fourlane,straight,junction,fine,LCV over speed and hit to Two wheeler,0,0,1,0,Petrol Vehicle,"There is no injured, traffic cleared immediately."
+793,01/04/2017,03:30,headoncollision,2,2 & 5,fourlane,straight,junction,fine,Truck over speed hit to LCV due to Negligence driving,0,1,0,0,Ambulance,The injured person shifted to Private Hospital Hoskote
+794,01/04/2017,15:10,headoncollision,2,2 & 9,fourlane,straight,junction,fine,Two wheeler over speed hit to Tractor,0,1,0,0,Ambulance,The injured person shifted to Private Hospital Hoskote
+795,01/04/2016,12:40,skidding,1,2 & 4,fourlane,straight,junction,fine,Two wheeler over speed self accident,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+796,01/03/2017,12:30,skidding,4,2,fourlane,straight,junction,fine,LCV self accident,0,0,0,3,Petrol Vehicle,Inform to Kolar rural Police station
+797,01/03/2016,19:30,headoncollision,2,2 & 5,fourlane,slightcurve,junction,fine,Rash driving of Two wheeler and hit to Jeep,0,2,0,0,Ambulance,The injured person shifted to MVJ Hospital
+798,01/02/2015,02:30,others,1,1 & 2,fourlane,slightcurve,tjunction,fine,Self Accident Driver Drunk & Drive,1,0,0,0,Ambulance/Petrol Vehicle,The Fatal body shifted to MVJ Hospital
+799,01/12/2017,11:35,skidding,3,2 & 3,fourlane,straight,junction,fine,car over speed and hit to two wheeler,0,0,1,0,Petrol Vehicle,Minor injured Vehicle shifted to Kolar Traffic police station
+800,01/12/2016,22:30,skidding,3,9,fourlane,straight,junction,fine,LCV over speed self accident due to defect in mechanical condition,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+801,01/11/2015,18:30,headoncollision,4,4,fourlane,straight,junction,fine,Bike over speed and overturn to bus,0,0,0,1,Ambulance/Petrol Vehicle,There is no injured
+802,01/11/2015,00:30,headoncollision,2 & 4,2 & 5,fourlane,straight,junction,fine,Truck over speed and Hit to Truck and back side LCV also,0,3,0,2,Ambulance/Petrol Vehicle,The injured person shifted to Jalappa Hospital
+803,01/10/2016,05:00,headoncollision,2,3 & 9,fourlane,straight,junction,fine,Truck over speed and hit to Car,0,2,0,0,Ambulance/Petrol Vehicle,The injured person shifted to MVJ Hospital
+804,01/01/2018,15:50,headoncollision,3,2 & 5,fourlane,straight,junction,fine,Truck over speed and hit to Car,0,0,1,0,Petrol Vehicle,The injured person shifted to Jalappa Hospital Kolar
+805,01/01/2017,06:00,headoncollision,1,2 & 9,fourlane,straight,junction,fine,Car over speed and hit to Truck due to Defects in Mechanical condition,1,0,0,0,Ambulance/Petrol Vehicle,The fatal body shifted to Jalappa Hospital
+806,01/01/2016,12:05,headoncollision,3,2 & 5,fourlane,straight,junction,fine,Car over speed and Hit to LCV,0,0,1,0,Ambulance,The injured person shifted to Jalappa Hospital
+,,,,,,fourlane,straight,junction,fine,Total,250,555,580,264,,
